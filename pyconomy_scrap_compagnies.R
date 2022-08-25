@@ -234,3 +234,86 @@ colnames(OK_F)[1] <- "rowname"
 
 write.csv(OK_F, file = "compagnies.csv", row.names = TRUE)
 
+
+
+
+################################################################################
+################################################################################
+
+#--------------------------- NAVIGUATEUR --------------------------------------#
+rD <- rsDriver(port = 4450L, browser =  "firefox")
+remDr <- rD[["client"]]
+
+remDr$maxWindowSize()
+page <- "https://airtable.com/shrGYaj6CikiaXEhH/tblZFNBiWgVocM5BA/viwpawOq6LL8eHnqL"
+remDr$navigate(page)
+Sys.sleep(5)
+
+# Clotûre du panneau View
+webElems <- remDr$findElement(using = 'id' , 'viewSidebarToggleButton')
+webElems$clickElement()
+Sys.sleep(0.2)
+
+## Show hidden column
+# Open panel
+webElems <- remDr$findElements(using = 'xpath' , "//div[@class='focus-visible mr1']")
+webElems[[1]]$clickElement()
+# True value setting
+webElems <- remDr$findElements(using = 'xpath' , "//div[@class='flex items-center flex-auto text-blue-focus px-half rounded darken1-hover pointer']")
+for (i in c(1:12,14:15,21)){
+  webElems[[i]]$clickElement()
+}
+webElems <- remDr$findElements(using = 'xpath' , "//div[@class='focus-visible mr1']")
+webElems[[1]]$clickElement()
+
+
+
+
+# Click première ligne première colonne
+webElems <- remDr$findElements(using = 'xpath' , "//div[@class='cell primary read']")
+webElems[[1]]$clickElement()
+webElems[[1]]$sendKeysToElement(list(key="home"))
+webElems <- remDr$findElements(using = 'xpath' , "//div[@class='cell primary selected cursor read']")
+webElems[[1]]$clickElement()
+
+last <- c(NULL)
+
+#------------------------- COLLECT COMPAGNIE NAME -----------------------------#
+
+for (i in 1:(round(1168/23,0))){
+
+  webElems <- remDr$findElements(using = 'xpath' , "//div[@class='cell read lastColumn']")
+  Sys.sleep(0.2)
+  resHeaders <- unlist(lapply(webElems, function(x){x$getElementText()}))
+  
+  if(i==1){
+
+    last <- c(last, resHeaders[1:23] )
+
+  } else if (i==2) {
+
+    last <- c(last, resHeaders[8:30] )
+
+  } else {
+
+    last <- c(last, resHeaders[4:26] )
+    
+  }
+  
+  
+  
+  webElems <- remDr$findElements(using = 'xpath' , "//div[@class='cell primary selected cursor read']")
+  webElems[[1]]$sendKeysToElement(list(key="page_down"))
+  Sys.sleep(0.7)
+  
+}
+dd <- as.data.frame( last)
+
+
+
+test <- read.csv("compagnies.csv")
+test$fundraising <- last[1:1168]
+
+write.csv(test, "compagnies_full.csv")
+
+remDr$close()

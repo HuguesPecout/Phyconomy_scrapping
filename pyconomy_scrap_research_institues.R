@@ -158,64 +158,94 @@ write.csv(OK2, file = "institutes.csv", row.names = TRUE)
 
 #----------------- COLLECT OTHER VARIABLE PARTIE 2 ----------------------------#
 
+
+
+
+################################################################################
+################################################################################
+
+#--------------------------- NAVIGUATEUR --------------------------------------#
+rD <- rsDriver(port = 4458L, browser =  "firefox")
+remDr <- rD[["client"]]
+
+remDr$maxWindowSize()
+page <- "https://airtable.com/shrGYaj6CikiaXEhH/tblZFNBiWgVocM5BA/viwpawOq6LL8eHnqL"
+remDr$navigate(page)
+Sys.sleep(5)
+
+# Clotûre du panneau View
+webElems <- remDr$findElement(using = 'id' , 'viewSidebarToggleButton')
+webElems$clickElement()
+Sys.sleep(0.2)
+
+webElems <- remDr$findElements(using = 'xpath' , "//div[@class='flex relative flex-none text-size-default tableTabContainer darkBase']")
+webElems[[6]]$clickElement()
+
+
+## Show hidden column
+# Open panel
+webElems <- remDr$findElements(using = 'xpath' , "//div[@class='focus-visible mr1']")
+webElems[[1]]$clickElement()
+# True value setting
+webElems <- remDr$findElements(using = 'xpath' , "//div[@class='flex items-center flex-auto text-blue-focus px-half rounded darken1-hover pointer']")
+for (i in c(1:4,8)){
+  webElems[[i]]$clickElement()
+}
+webElems <- remDr$findElements(using = 'xpath' , "//div[@class='focus-visible mr1']")
+webElems[[1]]$clickElement()
+
+
+
+
 # Click première ligne première colonne
 webElems <- remDr$findElements(using = 'xpath' , "//div[@class='cell primary read']")
 webElems[[1]]$clickElement()
 webElems[[1]]$sendKeysToElement(list(key="home"))
+webElems <- remDr$findElements(using = 'xpath' , "//div[@class='cell primary selected cursor read']")
+webElems[[1]]$clickElement()
 
+last <- c(NULL)
 
-# Creation dtata frame vide
-Inst_oth_last<- data.frame(NULL)
+#------------------------- COLLECT COMPAGNIE NAME -----------------------------#
 
-# Boucle de scraping
-
-for (i in 1:(round(224/36,0)+1)){
-
-
+for (i in 1:(round(224/23,0))){
+  
   webElems <- remDr$findElements(using = 'xpath' , "//div[@class='cell read lastColumn']")
+  Sys.sleep(0.2)
   resHeaders <- unlist(lapply(webElems, function(x){x$getElementText()}))
   
   if(i==1){
     
-    mat <- matrix(resHeaders[c(1:36)], 36, byrow = TRUE)
-    test <- as.data.frame(mat, stringsAsFactors = FALSE)
-    test <- as.data.frame(test[order(nrow(test):1),])
-    # test[1:2,2] <- test[1:2,3]
-    # test[1:2,3] <- ""   
-        
-  } else if (i==6) {
+    last <- c(last, resHeaders[1:23] )
     
-    mat <- matrix(resHeaders[c(27:34)], 8, byrow = TRUE)
-    test <- as.data.frame(mat, stringsAsFactors = FALSE)
+  } else if (i==round(224/23,0)) {
     
+    last <- c(last, resHeaders[5:26] )
     
   } else {
     
-    mat <- matrix(resHeaders[c(4:39)], 36, byrow = TRUE)
-    test <- as.data.frame(mat, stringsAsFactors = FALSE)
-    
+    last <- c(last, resHeaders[4:26] )
     
   }
   
-  webElems2 <- remDr$findElements(using = 'xpath' , "//div[@class='headerRow rightPane']")
-  resHeaders2 <- unlist(lapply(webElems2, function(x){x$getElementText()}))
-  colnames(test) <- unlist(strsplit(resHeaders2, split = "\n"))[8]
-  # test <- test[, -2]
-  # test <- test[, c(2:12,1)]
+  length(resHeaders[3:25])
   
-  Inst_oth_last <- rbind(Inst_oth_last, test)
-  
+  webElems <- remDr$findElements(using = 'xpath' , "//div[@class='cell primary selected cursor read']")
   webElems[[1]]$sendKeysToElement(list(key="page_down"))
-  Sys.sleep(0.8)
-  # Click première ligne première colonne
-  # webElems <- remDr$findElements(using = 'xpath' , "//div[@class='cell primary selected cursor read']")
-  # webElems[[1]]$clickElement()
+  Sys.sleep(0.7)
+  
 }
+dd <- as.data.frame( last)
+View(dd)
 
 
-# OK <- read.csv("compagnies.csv")
-# OK <- cbind(OK1, Comp_oth)
+OK_F$value.chain <- last[1:224]
+# 
+# write.csv(test, "institute.csv")
+
+remDr$close()
 
 OK2_F <- cbind(OK2, Inst_oth_last)
 write.csv(OK2_F, file = "institutes.csv", row.names = TRUE)
 
+yy <- read.csv("institutes.csv")
