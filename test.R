@@ -30,17 +30,26 @@ remDr$open()
 
 
 
-page <- "https://icao.maps.arcgis.com/home/webmap/viewer.html?webmap=001e485610484d198c91f0703bc5740a"
+page <- "https://airtable.com/shrGYaj6CikiaXEhH/tblZFNBiWgVocM5BA/viwpawOq6LL8eHnqL"
 # remDr$open()
 # remDr$setWindowSize(width = 800, height = 300)
 remDr$navigate(page)
 Sys.sleep(5)
 
 # Test
-webElems <- remDr$findElements("id", "webmap-title-text")
+webElems <- remDr$findElements("id", "view")
 resHeaders <- unlist(lapply(webElems, function(x){x$getElementText()}))
-resHeaders 
+
+resHeaders2 <- strsplit(resHeaders,split='\n', fixed=FALSE)
+resHeaders2[[3]]
 ####
+
+
+for (i in 1:475){
+  print(resHeaders2[[i]])
+  }
+
+webElems <- remDr$findElements(using = 'class' , 'rightPaneWrapper')
 
 
 webElems <- remDr$findElement(using = 'id' , 'webmap-details-legend-content')
