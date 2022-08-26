@@ -36,12 +36,15 @@ Sys.sleep(5)
 
 # Ouverture onglet research institutes
 webElems <- remDr$findElements(using = 'xpath' , "//div[@class='flex relative flex-none text-size-default tableTabContainer darkBase']")
-webElems[[6]]$clickElement()
+webElems[[4]]$clickElement()
 
 ## Clotûre du panneau View
 webElems <- remDr$findElement(using = 'id' , 'viewSidebarToggleButton')
 webElems$clickElement()
 Sys.sleep(0.2)
+
+
+
 
 ## Show hidden column
 # Open panel
@@ -49,14 +52,14 @@ webElems <- remDr$findElements(using = 'xpath' , "//div[@class='focus-visible mr
 webElems[[1]]$clickElement()
 # True value setting
 webElems <- remDr$findElements(using = 'xpath' , "//div[@class='flex items-center flex-auto text-blue-focus px-half rounded darken1-hover pointer']")
-for (i in c(5:8)){
+for (i in c(5)){
   webElems[[i]]$clickElement()
 }
 webElems <- remDr$findElements(using = 'xpath' , "//div[@class='focus-visible mr1']")
 webElems[[1]]$clickElement()
 
 # Data frame vide
-Institutes <- data.frame(Name=as.character(NULL))
+Gmakers <- data.frame(Name=as.character(NULL))
 
 
 
@@ -64,13 +67,13 @@ Institutes <- data.frame(Name=as.character(NULL))
 
 #-------------------- COLLECT RESARCH INSTITUES NAME --------------------------#
 
-for (i in 1:(round(224/23,0))){
+for (i in 1:(round(89/23,0))){
 
   webElems <- remDr$findElements(using = 'xpath' , "//div[@class='cell primary read']")
   Sys.sleep(0.2)
   resHeaders <- unlist(lapply(webElems, function(x){x$getElementText()}))
   resHeaders <- resHeaders[resHeaders != ""]
-  Institutes <- rbind(Institutes, data.frame(resHeaders) )
+  Gmakers <- rbind(Gmakers, data.frame(resHeaders))
   
   webElems <- remDr$findElements(using = 'xpath' , "//div[@class='cell read']")
   webElems[[1]]$clickElement()
@@ -80,13 +83,11 @@ for (i in 1:(round(224/23,0))){
   
 }
 
-duplicated(Institutes)
-# Suppression des doublons
-Institutes <- unique(Institutes)
+duplicated(Gmakers)
 
-Institutes$ID <- 1:nrow(Institutes)
 
-Institutes <- Institutes[,2:1]
+Gmakers$ID <- 1:nrow(Gmakers)
+Gmakers <- Gmakers[,2:1]
 
 # Up to haut de page
 webElems <- remDr$findElements(using = 'xpath' , "//div[@class='cell primary read']")
@@ -109,36 +110,35 @@ webElems[[1]]$sendKeysToElement(list(key="home"))
 # }
 
 # Creation dtata frame vide
-Inst_oth <- data.frame(NULL)
+Gmakers2 <- data.frame(NULL)
 
 # Boucle de scraping
 
-for (i in 1:(round(224/23,0))){
+for (i in 1:(round(89/23,0))){
 
 webElems <- remDr$findElements(using = 'xpath' , "//div[@class='cell read']")
 resHeaders <- unlist(lapply(webElems, function(x){x$getElementText()}))
 
 if(i==1){
 
-mat <- matrix(resHeaders[c(8:168)], 23, byrow = TRUE)
+mat <- matrix(resHeaders[c(6:120)], 23, byrow = TRUE)
 test <- as.data.frame(mat, stringsAsFactors = FALSE)
 test <- test[order(nrow(test):1),]
 
 } else if (i==2) {
   
-mat <- matrix(resHeaders[c(1:7,29:182)], 23, byrow = TRUE)
+mat <- matrix(resHeaders[c(1:5,21:130)], 23, byrow = TRUE)
 test <- as.data.frame(mat, stringsAsFactors = FALSE)
 
 
-} else (i==10) {
-  29-147
-  118/7
-  mat <- matrix(resHeaders[c(29:147)], 17, byrow = TRUE)
+} else (i==4) {
+
+  mat <- matrix(resHeaders[c(16:115)], 20, byrow = TRUE)
   test <- as.data.frame(mat, stringsAsFactors = FALSE)
 
 } else {
   
-  mat <- matrix(resHeaders[c(22:182)], 23, byrow = TRUE)
+  mat <- matrix(resHeaders[c(16:130)], 23, byrow = TRUE)
   test <- as.data.frame(mat, stringsAsFactors = FALSE)
 
   
@@ -146,9 +146,9 @@ test <- as.data.frame(mat, stringsAsFactors = FALSE)
   
 webElems2 <- remDr$findElements(using = 'xpath' , "//div[@class='headerRow rightPane']")
 resHeaders2 <- unlist(lapply(webElems2, function(x){x$getElementText()}))
-colnames(test) <-unlist(strsplit(resHeaders2, split = "\n"))[-8]
+colnames(test) <-unlist(strsplit(resHeaders2, split = "\n"))[-5]
   
-Inst_oth<- rbind(Inst_oth, test)
+Gmakers2 <- rbind(Gmakers2, test)
   
 webElems[[1]]$sendKeysToElement(list(key="page_down"))
 Sys.sleep(0.8)
@@ -164,8 +164,9 @@ Sys.sleep(0.8)
 # rownames(Comp_oth2) <- 1:nrow(Comp_oth2)
 
 
-OK2 <- cbind(Institutes, Inst_oth)
-write.csv(OK2, file = "institutes.csv", row.names = TRUE)
+
+Gmakers2_F <- cbind(Gmakers, Gmakers2)
+write.csv(Gmakers2_F, file = "Grantmakers.csv", row.names = TRUE)
 
 
 
@@ -192,22 +193,7 @@ webElems$clickElement()
 Sys.sleep(0.2)
 
 webElems <- remDr$findElements(using = 'xpath' , "//div[@class='flex relative flex-none text-size-default tableTabContainer darkBase']")
-webElems[[6]]$clickElement()
-
-
-## Show hidden column
-# Open panel
-webElems <- remDr$findElements(using = 'xpath' , "//div[@class='focus-visible mr1']")
-webElems[[1]]$clickElement()
-# True value setting
-webElems <- remDr$findElements(using = 'xpath' , "//div[@class='flex items-center flex-auto text-blue-focus px-half rounded darken1-hover pointer']")
-for (i in c(1:4,8)){
-  webElems[[i]]$clickElement()
-}
-webElems <- remDr$findElements(using = 'xpath' , "//div[@class='focus-visible mr1']")
-webElems[[1]]$clickElement()
-
-
+webElems[[4]]$clickElement()
 
 
 # Click première ligne première colonne
@@ -221,38 +207,43 @@ last <- c(NULL)
 
 #------------------------- COLLECT COMPAGNIE NAME -----------------------------#
 
-for (i in 1:(round(224/23,0))){
+for (i in 1:(round(89/23,0))){
   
   webElems <- remDr$findElements(using = 'xpath' , "//div[@class='cell read lastColumn']")
-  Sys.sleep(0.2)
   resHeaders <- unlist(lapply(webElems, function(x){x$getElementText()}))
+  resHeaders
   
   if(i==1){
     
     last <- c(last, resHeaders[1:23] )
     
-  } else if (i==round(224/23,0)) {
+  } else if (i==2) {
+    
+    last <- c(last, resHeaders[c(4:26)] )
+    
+  } else if( i==3 ){
     
     last <- c(last, resHeaders[5:26] )
     
-  } else {
-    
-    last <- c(last, resHeaders[4:26] )
-    
-  }
+  } else { 
   
-  length(resHeaders[3:25])
+  last <- c(last, resHeaders[4:23] )
+  
+  }
   
   webElems <- remDr$findElements(using = 'xpath' , "//div[@class='cell primary selected cursor read']")
   webElems[[1]]$sendKeysToElement(list(key="page_down"))
   Sys.sleep(0.7)
   
 }
-dd <- as.data.frame( last)
-View(dd)
 
 
-OK2$value.chain <- last[1:224]
+Gmakers2_F$Headquarters <- last
+write.csv(Gmakers2_F, file = "Grantmakers.csv", row.names = TRUE)
+
+
+
+OK2$value.chain <- last
 # 
 # write.csv(test, "institute.csv")
 

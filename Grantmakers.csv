@@ -1,0 +1,195 @@
+"","ID","resHeaders","Number of grants","Grants total","Funder type","Focus","Grants","Headquarters"
+"23",1,"Horizon2020","26","$91,968,069","Government","","$12,726,187
+$1,751,479
+$223,590
+$8,764,941","EU"
+"22",2,"Norwegian Research Council","33","$51,933,538","Government","","$1,760,523
+$1,100,128
+$825,096
+$3,610,296","Norway"
+"21",3,"ARPA-E MARINER","20","$51,633,428","Government","Energy","$909,901
+$495,022
+$2,206,703
+$995,978
+$2,614,787","USA"
+"20",4,"Bezos Earth Fund","1","$33,000,000","Philanthropic","Climate 
+Biodiversity","$33,000,000","USA"
+"19",5,"Cystic Fibrosis Foundation","1","$14,500,000","Non-profit","Health","$14,500,000","USA"
+"18",6,"National Science Foundation (NSF)","14","$13,982,679","Government","","$256,000
+$255,999
+$1,212,508
+$139,898
+$358,435","USA"
+"17",7,"Biotechnology and Biological Sciences Research Council (BBSRC)","7","$13,762,820","Government","","$407,327
+$1,022,757
+$1,104,678
+$7,380,263","UK"
+"16",8,"Interreg","6","$11,968,482","Government","","$1,999,318
+$2,119,176
+$1,772,833
+$2,239,608","EU"
+"15",9,"ANR - National Research Agency France","10","$10,543,172","Government","","$7,036,025
+$311,138
+$263,603
+$352,219
+$597,238","France"
+"14",10,"Endeavour Fund","4","$9,551,640","Government","","$683,880
+$683,880
+$683,880
+$7,500,000","New Zealand"
+"13",11,"Netherlands Govt","3","$9,065,811","Government","","$5,880,447
+$232,234
+$2,953,130","Netherlands"
+"12",12,"European Maritime and Fisheries Fund","7","$8,117,756","Government","Ocean","$1,104,858
+$102,000
+$2,025,531
+$1,175,863","EU"
+"11",13,"Shelby Cullom Davis Charitable Fund","1","$8,000,000","Philanthropic","","$8,000,000","USA"
+"10",14,"Innovate UK","10","$6,859,412","Government","","$908,000
+$765,334
+$473,754
+$1,206,129
+$2,761,902","UK"
+"9",15,"Australian Research Council","10","$5,508,331","Government","","$259,747
+$271,209
+$387,544
+$316,080
+$199,769","Australia"
+"8",16,"World Wildlife Fund (WWF)","2","$5,128,154","Non-profit","Biodiversity","$4,228,154
+$900,000","USA"
+"7",17,"Builders Initiative","7","$4,876,702","Philanthropic","Ocean
+Food/Agriculture","$1,500,000
+$1,000,000
+$1,000,000
+$500,000","USA"
+"6",18,"Sustainable Food and Fibre Futures fund","2","$4,108,050","Government","Food/Agriculture","$3,423,371
+$684,679","New Zealand"
+"5",19,"Provincial Growth Fund","1","$4,103,955","Government","","$4,103,955","New Zealand"
+"4",20,"Innovation Fund Denmark","2","$3,646,834","Government","","$1,831,138
+$1,815,696","Denmark"
+"3",21,"Engineering and Physical Sciences Research Council (EPSRC)","2","$3,607,669","Government","","$845,767
+$2,761,902","UK"
+"2",22,"Paul G. Allen Family Foundation","4","$3,479,491","Philanthropic","Ocean
+Climate 
+Biodiversity","$1,500,000
+$1,403,554
+$229,527
+$346,410","USA"
+"1",23,"Auckland Council","1","$3,423,371","Government","","$3,423,371","New Zealand"
+"110",24,"Tindall Foundation","1","$3,423,371","Philanthropic","","$3,423,371","New Zealand"
+"24",25,"Lloyd's Register Foundation","3","$3,009,612","Philanthropic","Safety","$681,201
+$1,074,963
+$1,253,448","UK"
+"31",26,"Grantham Foundation For The Protection Of The Environment","3","$3,004,000","Philanthropic","Climate ","$188,000
+$2,500,000
+$316,000","UK"
+"41",27,"Food Planet Prize","2","$3,000,000","Philanthropic","Climate 
+Food/Agriculture","$2,000,000
+$1,000,000","Sweden"
+"51",28,"Natural Environment Research Council","1","$2,928,137","Government","","$2,928,137","UK"
+"61",29,"US Dept of Agriculture","1","$2,900,000","Government","Food/Agriculture","$2,900,000","USA"
+"71",30,"Tertiary Education Commission Entrepreneurial Universities","1","$2,734,987","Government","","$2,734,987","New Zealand"
+"81",31,"Climateworks Foundation","8","$2,653,946","Non-profit","Climate ","$165,780
+$37,000
+$21,000
+$1,965,529
+$64,660","USA"
+"91",32,"Marisla Foundation","7","$1,995,000","Philanthropic","Biodiversity","$1,500,000
+$225,000
+$150,000
+$45,000
+$45,000","USA"
+"101",33,"Blue Bio Cofund","1","$1,688,093","Government","","$1,688,093","EU"
+"111",34,"British Columbia Salmon Restoration and Innovation Fund","1","$1,426,855","Government","Food/Agriculture","$1,426,855","Canada"
+"121",35,"California Sea Grant","11","$1,420,616","Government","Ocean","$59,101
+$39,912
+$79,998
+$145,834
+$172,360","USA"
+"131",36,"Schmidt Marine Technology Partners","4","$1,414,000","Philanthropic","Ocean","$900,000
+$200,000
+$10,000
+$304,000","USA"
+"141",37,"Miljøministeriet Denmark","1","$1,291,770","Government","","$1,291,770","Denmark"
+"151",38,"Connecticut Sea Grant","3","$1,291,721","Government","Ocean","$280,840
+$736,955
+$273,926","USA"
+"161",39,"Business Australia","2","$1,283,309","Government","","$779,000
+$504,309","Australia"
+"171",40,"National Philanthropic Trust","1","$1,211,690","Philanthropic","","$1,211,690","USA"
+"181",41,"Economic and Social Research Council","1","$1,193,233","Government","","$1,193,233","UK"
+"191",42,"Maine Sea Grant","3","$1,136,303","Government","Ocean","$78,308
+$149,980
+$908,015","USA"
+"201",43,"South Australia Government","1","$1,103,333","Government","","$1,103,333","Australia"
+"211",44,"Oregon Sea Grant","2","$1,021,003","Government","Ocean","$280,842
+$740,161","USA"
+"221",45,"Chile Govt","1","$1,000,000","Government","","$1,000,000","Chile"
+"231",46,"Curt Bergfors Foundation","1","$1,000,000","Philanthropic","Food/Agriculture","$1,000,000","Sweden"
+"112",47,"Ocean Innovation Prize","1","$1,000,000","","","$1,000,000",""
+"25",48,"Sky Ocean Ventures","1","$908,000","Philanthropic","Ocean
+Plastic","$908,000","UK"
+"32",49,"Alaska Sea Grant","6","$827,956","Government","Ocean","$100,000
+$9,999
+$51,465
+$99,751
+$270,148","USA"
+"42",50,"Scottish Marine Fund","1","$819,095","Government","Ocean","$819,095","UK"
+"52",51,"US Dept of Commerce","3","$818,356","Government","","$50,000
+$268,356
+$500,000","USA"
+"62",52,"Velux Foundations","1","$800,000","Philanthropic","","$800,000","Denmark"
+"72",53,"Safe Seaweed Coalition","1","$792,712","Philanthropic","","$792,712","France"
+"82",54,"Agmardt","1","$684,679","Non-profit","Food/Agriculture","$684,679","New Zealand"
+"92",55,"Postcode Lotteries Green Challenge","1","$600,000","Non-profit","","$600,000","Netherlands"
+"102",56,"Long Cove Foundation","4","$575,000","Philanthropic","","$175,000
+$175,000
+$175,000
+$50,000","USA"
+"113",57,"UK Community Renewal Fund","1","$540,928","Government","","$540,928","UK"
+"122",58,"David and Lucile Packard Foundation","4","$510,000","Philanthropic","Climate 
+Ocean","$110,000
+$100,000
+$150,000
+$150,000","USA"
+"132",59,"Medical Research Council","1","$502,378","Government","","$502,378","UK"
+"142",60,"California Ocean Protection Council","1","$500,000","Government","Ocean","$500,000","USA"
+"152",61,"Eurostars","1","$451,794","Government","","$451,794","EU"
+"162",62,"The Intrepid Foundation","1","$427,817","Philanthropic","","$427,817","Australia"
+"172",63,"Woods Hole Sea Grant","2","$389,176","Government","Ocean","$89,571
+$299,605","USA"
+"182",64,"New Hampshire Sea Grant","1","$254,366","Government","Ocean","$254,366","USA"
+"192",65,"Rhode Island Sea Grant","1","$254,187","Government","Ocean","$254,187","USA"
+"202",66,"National Fish and Wildlife Foundation (NFWF)","4","$253,679","Government","Biodiversity","$38,307
+$103,916
+$71,456
+$40,000","USA"
+"212",67,"Restore America's Estuaries","1","$250,000","Government","Ocean","$250,000","USA"
+"222",68,"Walton Family Foundation","1","$250,000","Philanthropic","","$250,000","USA"
+"232",69,"Xprize","1","$250,000","Philanthropic","Climate ","$250,000","USA"
+"114",70,"Department for Environment Food and Rural Affairs (DEFRA)","2","$243,877","Government","Food/Agriculture","$136,244
+$107,633","UK"
+"26",71,"Texas Govt","1","$239,461","Government","","$239,461","USA"
+"33",72,"Washington Sea Grant","2","$238,514","Government","Ocean","$138,517
+$99,997","USA"
+"43",73,"National Sea Grant Law Center","1","$212,977","Government","Ocean","$212,977","USA"
+"53",74,"Bently Foundation","1","$200,000","Philanthropic","","$200,000","USA"
+"63",75,"Waitt Foundation","3","$175,000","Philanthropic","Ocean","$75,000
+$75,000
+$25,000","USA"
+"73",76,"Seafood Innovation Fund","1","$169,308","Government","Food/Agriculture","$169,308","UK"
+"83",77,"Meyer Memorial Trust","1","$110,000","Philanthropic","","$110,000","USA"
+"93",78,"University of Southern California Sea Grant","1","$103,478","Government","Ocean","$103,478","USA"
+"103",79,"Ireland Govt","1","$102,000","Government","","$102,000","Ireland"
+"115",80,"MIT Sea Grant College Program","1","$94,689","Government","Ocean","$94,689","USA"
+"123",81,"New York Sea Grant","1","$91,667","Government","Ocean","$91,667","USA"
+"133",82,"Devon Environment Foundation","1","$63,940","Philanthropic","Ocean
+Biodiversity","$63,940","UK"
+"143",83,"Paul M. Angell Family Foundation","1","$25,000","Philanthropic","Biodiversity","$25,000","USA"
+"153",84,"Davis Conservation Foundation","1","$10,000","Philanthropic","Biodiversity","$10,000","USA"
+"163",85,"The Rufford Foundation","1","$6,812","Philanthropic","","$6,812","USA"
+"173",86,"The Keith Campbell Foundation for the Environment","1","$5,000","Philanthropic","Biodiversity
+Climate ","$5,000","USA"
+"183",87,"Gordon and Betty Moore Foundation","1","$0","","","Unnamed record",""
+"193",88,"Innovation Norway","0","$0","Government","","","Norway"
+"203",89,"Norwegian National Biotechnology Institute (NTNU)","0","$0","Government","","","Norway"

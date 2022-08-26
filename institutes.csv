@@ -1,355 +1,364 @@
-"","resHeaders","Headquarters","Researchers","Grants associated","Web presence","Number of grants listed","Research focus","Research fields","Value chain"
-"1","Aarhus University",NA,NA,NA,NA,NA,NA,NA,NA
-"2","ACIAR","Denmark","","$800,000
+"ID","resHeaders","Headquarters","Researchers","Grants associated","Web presence","Number of grants listed","Research focus","Research fields","value.chain"
+1,"Aarhus University","Denmark","","$800,000
 $7,016,009
-$2,642,715","https://www.au.dk/","6","Multi-disciplinary","",NA
-"3","Adelphi University","","","","","","","",NA
-"4","Aitiip Centro Tecnologico","","","Unnamed record","","1","","",NA
-"5","Alaska Sea Grant","India","","","https://cmfri.org.in/","0","Multi-disciplinary","",NA
-"6","Aleutians East Borough","Spain","","$9,358,759","https://www.gbif.es/instituciones/centro-de-biotecnologia-marina-universidad-de-las-palmas-de-gran-canaria/","1","Applications
-Cultivation","",NA
-"7","Alfred Wegener Institute","UK","","$2,761,902","https://www.cefas.co.uk/","1","Multi-disciplinary","",NA
-"8","Algalab at Universidad de Concepcion","New Zealand","","$4,103,955
-$7,500,000","https://www.cawthron.org.nz/our-news/prime-minister-opens-national-algae-research-centre/","2","Cultivation
-Applications","",NA
-"9","AlgeCenter","USA","","$103,478","","1","","",NA
-"10","Alginor","USA","","$59,101
-$195,832","","2","","",NA
-"11","Aquatic Plant Variety Center","USA","","$145,834","","1","","",NA
-"12","Arizona State University","USA","","$254,187","","1","","",NA
-"13","ARPA-E MARINER","USA","","$79,998
-$333,441","","2","","",NA
-"14","AZTI","Belgium","","$11,492,502
+$2,642,715","https://www.au.dk/","6","Multi-disciplinary","","Research"
+2,"ACIAR","Australia","","","https://www.aciar.gov.au/","0","Multi-disciplinary","","Research"
+3,"Adelphi University","USA","","$103,916","","1","","",""
+4,"Aitiip Centro Tecnologico","","","$1,688,093","","1","","",""
+5,"Alaska Sea Grant","USA","","$100,000
+$51,465
+$99,751","","6","","",""
+6,"Aleutians East Borough","USA","","$71,456
+$99,751","","2","","",""
+7,"Alfred Wegener Institute","","","$792,712","","1","","",""
+8,"Algalab at Universidad de Concepcion","Chile","","","http://www.algalab.com/index_eng.html","0","Biology & ecology","","Research"
+9,"AlgeCenter","Denmark","","$7,016,009
+$800,000
+$1,831,138","https://algecenterdanmark.com/","5","Multi-disciplinary","","Research"
+10,"Alginor","Norway","","","https://alginor.no/","0","Processing","","Farming & harvesting
+Biorefinery"
+11,"Aquatic Plant Variety Center","South Korea","","","https://www.nifs.go.kr/page?id=en2_sub5_500","0","","","Research"
+12,"Arizona State University","USA","","","","0","","",""
+13,"ARPA-E MARINER","USA","","","https://arpa-e.energy.gov/technologies/programs/mariner","0","Cultivation
+Energy","","Research"
+14,"AZTI","Spain","Leire Arantzamendi","","https://www.azti.es/en/","0","","",""
+15,"Balitang KKP (The Centre for Marine and Fisheries Research and Development)","Indonesia","Windu Merdekawati","","https://kkp.go.id/brsdm/biotekkp","0","Applications
+Pharmaceuticals","","Research"
+16,"Bamfield Marine Sciences Centre","UK","","$1,426,855","","1","","",""
+17,"Banco Español de Algas (BEA – Spanish Bank of Algae)","","","$792,712","","1","","",""
+18,"Bigelow Laboratory for Ocean Sciences","USA","","$8,000,000
+$10,000
+$900,000","https://www.bigelow.org/","5","","",""
+19,"BioPilotsUK","UK","","","https://biopilotsuk.com/","0","Cultivation
+Processing","","Research
+Biorefinery"
+20,"Blue Food","Sweden","","","https://www.kth.se/bluefood","0","Applications","","Multi-stakeholder platform"
+21,"BlueGent","Belgium","","$11,492,502
 $1,999,318
 $2,239,608","http://bluegent.ugent.be/","4","Pharmaceuticals
-Cultivation","",NA
-"15","Balitang KKP (The Centre for Marine and Fisheries Research and Development)","Sweden","","","https://www.kth.se/bluefood","0","Applications","",NA
-"16","Bamfield Marine Sciences Centre","UK","","","https://biopilotsuk.com/","0","Cultivation
-Processing","",NA
-"17","Banco Español de Algas (BEA – Spanish Bank of Algae)","USA","","$8,000,000
-$10,000
-$900,000","https://www.bigelow.org/","5","","",NA
-"18","Bigelow Laboratory for Ocean Sciences","","","$792,712","","1","","",NA
-"19","BioPilotsUK","UK","","$1,426,855","","1","","",NA
-"20","Blue Food","Indonesia","Windu Merdekawati","","https://kkp.go.id/brsdm/biotekkp","0","Applications
-Pharmaceuticals","",NA
-"21","BlueGent","Spain","Leire Arantzamendi","","https://www.azti.es/en/","0","","",NA
-"22","Bodega Marine Laboratory @ UC Davis","USA","","","https://arpa-e.energy.gov/technologies/programs/mariner","0","Cultivation
-Energy","","Research"
-"23","Boston University","USA","","","","0","","",""
-"24","California Sea Grant","South Korea","","","https://www.nifs.go.kr/page?id=en2_sub5_500","0","","",""
-"25","California State University Monterey Bay","Norway","","","https://alginor.no/","0","Processing","",""
-"26","California State University Northridge","Denmark","","$7,016,009
-$800,000
-$1,831,138","https://algecenterdanmark.com/","5","Multi-disciplinary","",""
-"27","Cawthron National Algae Research Centre","Chile","","","http://www.algalab.com/index_eng.html","0","Biology & ecology","",""
-"28","Cefas","","","$792,712","","1","","","Research"
-"29","Center of Applied Algology @ University of Las Palmas de Gran Canaria","USA","","$71,456
-$99,751","","2","","","Research"
-"30","Central Marine Fisheries Research Institute","USA","","$100,000
-$51,465
-$99,751","","6","","","Research"
-"31","Centre of Climate Repair University of Cambridge","","","$1,688,093","","1","","","Research"
-"32","Centro de Ciencias do Mar do Algarve (CCMAR)","USA","","$103,916","","1","","",""
-"33","Centro Tecnológico del Mar","Portugal","","$8,764,941
+Cultivation","","Research"
+22,"Bodega Marine Laboratory @ UC Davis","USA","","$79,998
+$333,441","","2","","",""
+23,"Boston University","USA","","$254,187","","1","","",""
+24,"California Sea Grant","USA","","$145,834","","1","","",""
+25,"California State University Monterey Bay","USA","","$59,101
+$195,832","","2","","",""
+26,"California State University Northridge","USA","","$103,478","","1","","",""
+27,"Cawthron National Algae Research Centre","New Zealand","","$4,103,955
+$7,500,000","https://www.cawthron.org.nz/our-news/prime-minister-opens-national-algae-research-centre/","2","Cultivation
+Applications","","Research"
+28,"Cefas","UK","","$2,761,902","https://www.cefas.co.uk/","1","Multi-disciplinary","","Research"
+29,"Center of Applied Algology @ University of Las Palmas de Gran Canaria","Spain","","$9,358,759","https://www.gbif.es/instituciones/centro-de-biotecnologia-marina-universidad-de-las-palmas-de-gran-canaria/","1","Applications
+Cultivation","","Research"
+30,"Central Marine Fisheries Research Institute","India","","","https://cmfri.org.in/","0","Multi-disciplinary","","Research"
+31,"Centre of Climate Repair University of Cambridge","","","Unnamed record","","1","","",""
+32,"Centro de Ciencias do Mar do Algarve (CCMAR)","Portugal","","$8,764,941
 $9,358,759","https://www.ccmar.ualg.pt/","2","","",""
-"34","CEVA - Centre des Etudes et de Valorisation des Algues","Spain","","","https://cetmar.org/?lang=en","0","Multi-disciplinary","","Research"
-"35","CIIMAR - Centro Interdisciplinar de Investigacao Marinha e Ambiental","France","","$7,036,025
+33,"Centro Tecnológico del Mar","Spain","","","https://cetmar.org/?lang=en","0","Multi-disciplinary","","Research"
+34,"CEVA - Centre des Etudes et de Valorisation des Algues","France","","$7,036,025
 $3,858,220
 $1,772,833","http://ceva-algues.com/","4","Multi-disciplinary","","Research
 Consulting"
-"36","Climate Foundation","Portugal","","$12,726,187","https://www2.ciimar.up.pt/","1","Multi-disciplinary","","Research"
-"37","CNRS - Centre national de la recherche scientifique","USA","","","https://www.climatefoundation.org/","0","Cultivation","","Research
+35,"CIIMAR - Centro Interdisciplinar de Investigacao Marinha e Ambiental","Portugal","","$12,726,187","https://www2.ciimar.up.pt/","1","Multi-disciplinary","","Research"
+36,"Climate Foundation","USA","","","https://www.climatefoundation.org/","0","Cultivation","","Research
 NGO"
-"38","Connecticut Sea Grant","France","","$7,036,025
+37,"CNRS - Centre national de la recherche scientifique","France","","$7,036,025
 $1,751,479","https://www.cnrs.fr/","2","Multi-disciplinary","","Research"
-"39","CSMCRI","USA","","$280,840
+38,"Connecticut Sea Grant","USA","","$280,840
 $736,955
 $273,926","","3","","",""
-"40","CyberColloids","India","","","https://www.csmcri.res.in/research/marine-biotechnology-and-ecology","0","Biology & ecology
+39,"CSMCRI","India","","","https://www.csmcri.res.in/research/marine-biotechnology-and-ecology","0","Biology & ecology
 Applications","","Research"
-"41","Danish Technological Institute","Ireland","","","http://www.cybercolloids.net/","0","Applications","","Research"
-"42","Department of Fisheries of Malaysia","Denmark","","$4,859,731
+40,"CyberColloids","Ireland","","","http://www.cybercolloids.net/","0","Applications","","Research"
+41,"Danish Technological Institute","Denmark","","$4,859,731
 $7,016,009
 $9,358,759","https://www.teknologisk.dk/","5","Multi-disciplinary","","Research"
-"43","Department of Marine Resources CINVESTAV Mérida","Malaysia","","","https://www.dof.gov.my/index.php/pages/view/2422","0","Cultivation
+42,"Department of Fisheries of Malaysia","Malaysia","","","https://www.dof.gov.my/index.php/pages/view/2422","0","Cultivation
 Socio-economic","","Research"
-"44","Department of Seaweed","Mexico","","","https://www.mda.cinvestav.mx/","0","Biology & ecology
+43,"Department of Marine Resources CINVESTAV Mérida","Mexico","","","https://www.mda.cinvestav.mx/","0","Biology & ecology
 Cultivation","","Research"
-"45","Dìomhair","Finland","Julia Lohmann
+44,"Department of Seaweed","Finland","Julia Lohmann
 Violaine Buet","","https://www.departmentofseaweed.org/","0","","",""
-"46","DTU Aqua","UK","","","https://www.linkedin.com/in/maryam-maccorquodale-9439171a","0","Applications
+45,"Dìomhair","UK","","","https://www.linkedin.com/in/maryam-maccorquodale-9439171a","0","Applications
 Cultivation","","Applications
 Research
 Breeding & propagation"
-"47","DTU Food","Denmark","","$3,025,719
+46,"DTU Aqua","Denmark","","$3,025,719
 $1,831,138
 $1,815,696","https://www.aqua.dtu.dk/english","3","Multi-disciplinary","","Research"
-"48","Ecosystem Aquaculture Research Group @ São Paulo State University (unesp)","","","$1,831,138","","1","","",""
-"49","Faculty of Agriculture @ Kyushu University (Fisheries Proliferation Studies)","Brazil","Levi Pompermayer Machado","","https://www.registro.unesp.br/#!/pesquisa/grupos/grupos-de-pesquisa/aquicultura/","0","","",""
-"50","Faculty of Fisheries @ Nagasaki University Faculty of Environmental Science","Japan","","","http://www.agr.kyushu-u.ac.jp/lab/fisheries_biol/","0","Biology & ecology
+47,"DTU Food","","","$1,831,138","","1","","",""
+48,"Ecosystem Aquaculture Research Group @ São Paulo State University (unesp)","Brazil","Levi Pompermayer Machado","","https://www.registro.unesp.br/#!/pesquisa/grupos/grupos-de-pesquisa/aquicultura/","0","","",""
+49,"Faculty of Agriculture @ Kyushu University (Fisheries Proliferation Studies)","Japan","","","http://www.agr.kyushu-u.ac.jp/lab/fisheries_biol/","0","Biology & ecology
 Cultivation","","Research"
-"51","Faculty of Fisheries and Marine Science in Sam Ratulangi University (FoFaMS)","Japan","","","http://www.fish.nagasaki-u.ac.jp/index-j.htm","0","Biology & ecology","","Research"
-"52","Faculty of Sciences of Bizerte, University of Carthage (FSB)","Indonesia","","$7,380,263","","1","","",""
-"53","Fisheries Proliferation Laboratory @ Tokyo University of Agriculture","Tunisia","","$2,025,531","","1","","",""
-"54","Florida State University","Japan","","","https://www.nodai.ac.jp/academics/bio/o_aqua/lab/2101/","0","Cultivation","","Research"
-"55","Forjazul","USA","","$139,898","","1","","",""
-"56","Fundacion Valve","Brazil","","","https://www.linkedin.com/company/forjazul/","0","Genetics","","Research"
-"57","George Mason University","Peru","","","https://fundacionvalve.org/","0","Biology & ecology","","Research
+50,"Faculty of Fisheries @ Nagasaki University Faculty of Environmental Science","Japan","","","http://www.fish.nagasaki-u.ac.jp/index-j.htm","0","Biology & ecology","","Research"
+51,"Faculty of Fisheries and Marine Science in Sam Ratulangi University (FoFaMS)","Indonesia","","$7,380,263","","1","","",""
+52,"Faculty of Sciences of Bizerte, University of Carthage (FSB)","Tunisia","","$2,025,531","","1","","",""
+53,"Fisheries Proliferation Laboratory @ Tokyo University of Agriculture","Japan","","","https://www.nodai.ac.jp/academics/bio/o_aqua/lab/2101/","0","Cultivation","","Research"
+54,"Florida State University","USA","","$139,898","","1","","",""
+55,"Forjazul","Brazil","","","https://www.linkedin.com/company/forjazul/","0","Genetics","","Research"
+56,"Fundacion Valve","Peru","","","https://fundacionvalve.org/","0","Biology & ecology","","Research
 Multi-stakeholder platform"
-"58","Georgia Institute of Technology","USA","","$280,840","","1","","",""
-"59","GlobalSeaweedSTAR","USA","","$1,212,508","","1","","",""
-"60","Gulf Coast Research Laboratory at University of Southern Mississippi","UK","","","https://www.globalseaweed.org/","0","Cultivation
+57,"George Mason University","USA","","$280,840","","1","","",""
+58,"Georgia Institute of Technology","USA","","$1,212,508","","1","","",""
+59,"GlobalSeaweedSTAR","UK","","","https://www.globalseaweed.org/","0","Cultivation
 Socio-economic","","Research
 Multi-stakeholder platform"
-"61","Hellenic Center for Marine Research (HCMR)","USA","","$499,999
+60,"Gulf Coast Research Laboratory at University of Southern Mississippi","USA","","$499,999
 $500,000","https://gcrl.usm.edu/cmac/","2","Cultivation","","Research"
-"62","Hokkaido University","Greece","","$2,025,531","","1","","",""
-"63","IFREMER","Japan","","","https://www.sci.hokudai.ac.jp/~horig/shinka2/Welcome.html/","0","Biology & ecology","","Research"
-"64","INRA Centre Val de Loire","France","","$7,036,025","https://wwz.ifremer.fr/","1","Multi-disciplinary","","Research"
-"65","Institute of Marine Biology @ University of Oregon","France","","$352,219
+61,"Hellenic Center for Marine Research (HCMR)","Greece","","$2,025,531","","1","","",""
+62,"Hokkaido University","Japan","","","https://www.sci.hokudai.ac.jp/~horig/shinka2/Welcome.html/","0","Biology & ecology","","Research"
+63,"IFREMER","France","","$7,036,025","https://wwz.ifremer.fr/","1","Multi-disciplinary","","Research"
+64,"INRA Centre Val de Loire","France","","$352,219
 $411,033","","2","","",""
-"66","Institute of Marine Science and Technology @ Shandong University","USA","","$956,923","","1","","",""
-"67","Institute of Ocean and Earth Sciences @ University of Malaya","China","","","https://www.imst.sdu.edu.cn/ENGLISH/HOME.htm","0","","","Research"
-"68","Institute of Oceanology @Chinese Academy of Sciences","Malaysia","","$792,712","https://ioes.um.edu.my/","1","Multi-disciplinary","","Research"
-"69","Instituto Portugues do Mar e da Atmosphera (IPMA)","China","","","http://english.qdio.cas.cn/","0","Multi-disciplinary","","Research"
-"70","International Phycological Society","Portugal","","$173,842
+65,"Institute of Marine Biology @ University of Oregon","USA","","$956,923","","1","","",""
+66,"Institute of Marine Science and Technology @ Shandong University","China","","","https://www.imst.sdu.edu.cn/ENGLISH/HOME.htm","0","","","Research"
+67,"Institute of Ocean and Earth Sciences @ University of Malaya","Malaysia","","$792,712","https://ioes.um.edu.my/","1","Multi-disciplinary","","Research"
+68,"Institute of Oceanology @Chinese Academy of Sciences","China","","","http://english.qdio.cas.cn/","0","Multi-disciplinary","","Research"
+69,"Instituto Portugues do Mar e da Atmosphera (IPMA)","Portugal","","$173,842
 $1,772,833","https://www.ipma.pt/pt/index.html","2","","",""
-"71","Islamia College Peshawar","USA","","","https://intphycsociety.org/National-Phycological-Societies","0","Biology & ecology","","Research
+70,"International Phycological Society","USA","","","https://intphycsociety.org/National-Phycological-Societies","0","Biology & ecology","","Research
 Multi-stakeholder platform"
-"72","JOLIOT Institut des sciences du vivant","","","","","","","",""
-"73","Kaust Red Sea Research Center","Pakistan","Syed Lal Badshah","","","0","","",""
-"74","Keene State College","France","","$597,238","","1","","",""
-"75","Kelp Forest Foundation","Saudi Arabia","","","https://rsrc.kaust.edu.sa/","0","Multi-disciplinary","","Research"
-"76","Key Laboratory of Seaweed Active Substances","USA","","$280,840","","1","","",""
-"77","Kobe University","Netherlands","","","http://kelpforestfoundation.org/","0","","","Research
+71,"Islamia College Peshawar","Pakistan","Syed Lal Badshah","","","0","","",""
+72,"JOLIOT Institut des sciences du vivant","France","","$597,238","","1","","",""
+73,"Kaust Red Sea Research Center","Saudi Arabia","","","https://rsrc.kaust.edu.sa/","0","Multi-disciplinary","","Research"
+74,"Keene State College","USA","","$280,840","","1","","",""
+75,"Kelp Forest Foundation","Netherlands","","","http://kelpforestfoundation.org/","0","","","Research
 NGO"
-"78","Kongju National University","China","","","http://www.skl-bass.com/","0","Pharmaceuticals","","Research"
-"79","Korea Institute of Ocean Science & Technology","Japan","","","https://ku-macc.nbrp.jp/","0","Biology & ecology","","Research"
-"80","Korean Society of Phycology","South Korea","","","https://english.kongju.ac.kr/index2.jsp","0","","","Research"
-"81","Lab of Biopolymers for Food and Health @ Technion Israel Institute of Technology","South Korea","","","http://www.kiost.ac.kr/eng.do","0","Applications
+76,"Key Laboratory of Seaweed Active Substances","China","","","http://www.skl-bass.com/","0","Pharmaceuticals","","Research"
+77,"Kobe University","Japan","","","https://ku-macc.nbrp.jp/","0","Biology & ecology","","Research"
+78,"Kongju National University","South Korea","","","https://english.kongju.ac.kr/index2.jsp","0","","","Research"
+79,"Korea Institute of Ocean Science & Technology","South Korea","","","http://www.kiost.ac.kr/eng.do","0","Applications
 Biology & ecology","","Research"
-"82","LBI2M Laboratoire de Biologie intégrative des modèles marins","South Korea","","","https://www.algae.or.kr/","0","Biology & ecology","","Research
+80,"Korean Society of Phycology","South Korea","","","https://www.algae.or.kr/","0","Biology & ecology","","Research
 Multi-stakeholder platform"
-"83","LIPI Oceanographic Research Center","Israel","Yoav Livney","","https://biotech.technion.ac.il/lab-of-biopolymers-for-food-and-health/","0","","",""
-"84","Maine Sea Grant","France","","$332,436
+81,"Lab of Biopolymers for Food and Health @ Technion Israel Institute of Technology","Israel","Yoav Livney","","https://biotech.technion.ac.il/lab-of-biopolymers-for-food-and-health/","0","","",""
+82,"LBI2M Laboratoire de Biologie intégrative des modèles marins","France","","$332,436
 $623,532","","2","","",""
-"85","Manchester University","Indonesia","","","http://oseanografi.lipi.go.id/","0","","","Research"
-"86","Marine Biological Laboratory at Woods Hole Oceanographic Institution","USA","","$736,955
+83,"LIPI Oceanographic Research Center","Indonesia","","","http://oseanografi.lipi.go.id/","0","","","Research"
+84,"Maine Sea Grant","USA","","$736,955
 $908,015","","2","","",""
-"87","Marine Biology Lab @ Fukui University","UK","","$765,334
+85,"Manchester University","UK","","$765,334
 $866,424","","2","","",""
-"88","Marine Bioproducts Cooperative Research Centre (MB-CRC)","USA","","$7,515,793","https://www.mbl.edu/","1","Multi-disciplinary","","Research"
-"89","Marine Botany Lab @ Kagoshima University","Japan","","","http://www.s.fpu.ac.jp/seibutsu/seibutsu_re.html","0","Biology & ecology","","Research"
-"90","Marine Phycology Laboratory","Australia","Wei Zhang","","https://mbcrc.com/","0","Applications","","Multi-stakeholder platform"
-"91","Marine Plant Ecology Laboratory @ Tohoku University","Japan","","","https://ja-jp.facebook.com/marinebotanylab","0","Biology & ecology
+86,"Marine Biological Laboratory at Woods Hole Oceanographic Institution","USA","","$7,515,793","https://www.mbl.edu/","1","Multi-disciplinary","","Research"
+87,"Marine Biology Lab @ Fukui University","Japan","","","http://www.s.fpu.ac.jp/seibutsu/seibutsu_re.html","0","Biology & ecology","","Research"
+88,"Marine Bioproducts Cooperative Research Centre (MB-CRC)","Australia","Wei Zhang","","https://mbcrc.com/","0","Applications","","Multi-stakeholder platform"
+89,"Marine Botany Lab @ Kagoshima University","Japan","","","https://ja-jp.facebook.com/marinebotanylab","0","Biology & ecology
 Cultivation","","Research"
-"92","Marine Science Institute @ UC Santa Barbara","Philippines","","","https://marinephycolab.netlify.app/","0","Cultivation
+90,"Marine Phycology Laboratory","Philippines","","","https://marinephycolab.netlify.app/","0","Cultivation
 Biology & ecology","","Research"
-"93","Marinomed","Japan","","","https://www.agri.tohoku.ac.jp/algae/index-j.html","0","Biology & ecology","","Research"
-"94","Maritime Institute of Malaysia","USA","","$2,003,893
+91,"Marine Plant Ecology Laboratory @ Tohoku University","Japan","","","https://www.agri.tohoku.ac.jp/algae/index-j.html","0","Biology & ecology","","Research"
+92,"Marine Science Institute @ UC Santa Barbara","USA","","$2,003,893
 $188,000
 $172,360","https://msi.ucsb.edu/","4","","","Research"
-"95","Massachusetts Institute of Technology","Austria","","","https://www.marinomed.com/","0","Pharmaceuticals","","Research"
-"96","Matis","Malaysia","","","https://www.mima.gov.my/","0","Socio-economic","","Research"
-"97","MFRC at GMIT","USA","","$94,689","","1","","",""
-"98","Mie University Phycology Lab","Iceland","","$223,590
+93,"Marinomed","Austria","","","https://www.marinomed.com/","0","Pharmaceuticals","","Research"
+94,"Maritime Institute of Malaysia","Malaysia","","","https://www.mima.gov.my/","0","Socio-economic","","Research"
+95,"Massachusetts Institute of Technology","USA","","$94,689","","1","","",""
+96,"Matis","Iceland","","$223,590
 $4,859,731
 $7,016,009","https://matis.is/","7","","",""
-"99","Ministry of Oceans and Fisheries of South Korea","Ireland","","","https://www.gmit.ie/freshwater-and-marine-biology/marine-and-freshwater-research-centre-mfrc","0","Multi-disciplinary","","Research"
-"100","MIT Sea Grant","Japan","","","https://soruipc2.bio.mie-u.ac.jp/index.html","0","Biology & ecology","","Research"
-"101","Monterey Bay","South Korea","","","https://www.mof.go.kr/index.do","0","","","Research"
-"102","MØREFORSKING","USA","","$94,689","","1","","",""
-"103","Moss Landing Marine Laboratories","USA","","","","0","","",""
-"104","Muroran Marine Station","Norway","","$3,858,220
+97,"MFRC at GMIT","Ireland","","","https://www.gmit.ie/freshwater-and-marine-biology/marine-and-freshwater-research-centre-mfrc","0","Multi-disciplinary","","Research"
+98,"Mie University Phycology Lab","Japan","","","https://soruipc2.bio.mie-u.ac.jp/index.html","0","Biology & ecology","","Research"
+99,"Ministry of Oceans and Fisheries of South Korea","South Korea","","","https://www.mof.go.kr/index.do","0","","","Research"
+100,"MIT Sea Grant","USA","","$94,689","","1","","",""
+101,"Monterey Bay","USA","","","","0","","",""
+102,"MØREFORSKING","Norway","","$3,858,220
 $3,025,719","https://www.moreforsk.com/","2","Cultivation
 Applications","","Research"
-"105","National Fisheries University","USA","","$145,834","","1","","",""
-"106","National Seaweeds Technology Center at BFAR","Japan","","","http://www.fsc.hokudai.ac.jp/muroran/english/","0","Biology & ecology","","Research"
-"107","Newcastle University","Japan","","","http://www.fish-u.ac.jp/gakka/seibutu_seisan/c1.html","0","Biology & ecology","","Research"
-"108","Nha Trang Institute of Technology Research and Application","","","","","","","",""
-"109","Nha Trang University","Philippines","","","https://www.bfar.da.gov.ph/about_us.jsp?id=33","0","Applications","","Research"
-"110","NIBIO - Norsk Institutt For Bioøkonomi","UK","","$2,761,902
+103,"Moss Landing Marine Laboratories","USA","","$145,834","","1","","",""
+104,"Muroran Marine Station","Japan","","","http://www.fsc.hokudai.ac.jp/muroran/english/","0","Biology & ecology","","Research"
+105,"National Fisheries University","Japan","","","http://www.fish-u.ac.jp/gakka/seibutu_seisan/c1.html","0","Biology & ecology","","Research"
+106,"National Seaweeds Technology Center at BFAR","Philippines","","","https://www.bfar.da.gov.ph/about_us.jsp?id=33","0","Applications","","Research"
+107,"Newcastle University","UK","","$2,761,902
 $866,424","","2","","",""
-"111","Nigerian Institute for Oceanography and Marine Research","Vietnam","","","http://www.nitra.ac.vn/tabid/41/language/en-US/Default.aspx","0","","","Research"
-"112","Ningbo university","Vietnam","","","http://ntu.edu.vn/","0","","","Research"
-"113","NIOZ Seaweed Centre","Norway","","$428,749
+108,"Nha Trang Institute of Technology Research and Application","Vietnam","","","http://www.nitra.ac.vn/tabid/41/language/en-US/Default.aspx","0","","","Research"
+109,"Nha Trang University","Vietnam","","","http://ntu.edu.vn/","0","","","Research"
+110,"NIBIO - Norsk Institutt For Bioøkonomi","Norway","","$428,749
 $3,858,220","","2","","",""
-"114","NIVA - Norsk Institutt for Vannforskning","Nigeria","","$9,283,874","https://niomr.gov.ng/","1","","",""
-"115","Nofima","China","","$792,712","http://iso.nbu.edu.cn/NingboUniversity/Research1/Centers___Institutes.htm","1","","","Research"
-"116","Noordoogst","Netherlands","","$2,953,130","https://www.nioz.nl/en/research/expertise/seaweed-centre","1","Cultivation","","Research"
-"117","Nord University","Norway","","$2,642,715
+111,"Nigerian Institute for Oceanography and Marine Research","Nigeria","","$9,283,874","https://niomr.gov.ng/","1","","",""
+112,"Ningbo university","China","","$792,712","http://iso.nbu.edu.cn/NingboUniversity/Research1/Centers___Institutes.htm","1","","","Research"
+113,"NIOZ Seaweed Centre","Netherlands","","$2,953,130","https://www.nioz.nl/en/research/expertise/seaweed-centre","1","Cultivation","","Research"
+114,"NIVA - Norsk Institutt for Vannforskning","Norway","","$2,642,715
 $782,338
 $1,200,924","","4","","",""
-"118","Nordaqua","Norway","","$9,358,759
+115,"Nofima","Norway","","$9,358,759
 $593,987
 $264,156","https://nofima.no/en/","4","Cultivation
 Applications","","Research"
-"119","Norges Miljø- Og Biovitenskapelige Universitet (NMBU)","Netherlands","","","https://noordoogst.nl/","0","Cultivation","","Research
+116,"Noordoogst","Netherlands","","","https://noordoogst.nl/","0","Cultivation","","Research
 Farming & harvesting"
-"120","Norges Teknisk-naturvitenskapelige Universitet NTNU","Norway","","$8,764,941","https://www.nord.no/en","1","","",""
-"121","Norwegian Institute of Marine Research (IMR)","Finland","","","https://www.nordaqua.fi/","0","Multi-disciplinary","","Multi-stakeholder platform"
-"122","Norwegian Research Centre","Norway","","$880,117
+117,"Nord University","Norway","","$8,764,941","https://www.nord.no/en","1","","",""
+118,"Nordaqua","Finland","","","https://www.nordaqua.fi/","0","Multi-disciplinary","","Multi-stakeholder platform"
+119,"Norges Miljø- Og Biovitenskapelige Universitet (NMBU)","Norway","","$880,117
 $3,858,220
 $10,578,935","","3","","",""
-"123","Norwegian Seaweed Biorefinery Platform","Norway","","$794,072
+120,"Norges Teknisk-naturvitenskapelige Universitet NTNU","Norway","","$794,072
 $748,011
 $3,858,220","","9","","",""
-"124","Norwegian Seaweed Technology Center","Norway","","$236,358
+121,"Norwegian Institute of Marine Research (IMR)","Norway","","$236,358
 $593,987
 $3,025,719","https://www.hi.no/en","3","","",""
-"125","Ocean University of China","Norway","","$9,283,874
+122,"Norwegian Research Centre","Norway","","$9,283,874
 $9,358,759","https://www.norceresearch.no/","2","Cultivation
 Applications","","Research"
-"126","Oceans 2050","Norway","","","https://www.sintef.no/projectweb/seaweedplatform/","0","Cultivation
+123,"Norwegian Seaweed Biorefinery Platform","Norway","","","https://www.sintef.no/projectweb/seaweedplatform/","0","Cultivation
 Applications
 Processing","","Multi-stakeholder platform"
-"127","Oceans Institute at UWA","Norway","","","https://www.sintef.no/en/ocean/initiatives/norwegian-seaweed-technology-center/#/","0","Cultivation
+124,"Norwegian Seaweed Technology Center","Norway","","","https://www.sintef.no/en/ocean/initiatives/norwegian-seaweed-technology-center/#/","0","Cultivation
 Applications","","Research"
-"128","Olgram","China","","","http://eweb.ouc.edu.cn/","0","Multi-disciplinary","","Research"
-"129","Oregon Sea Grant","Germany","","","https://www.oceans2050.com/","0","","","NGO
+125,"Ocean University of China","China","","","http://eweb.ouc.edu.cn/","0","Multi-disciplinary","","Research"
+126,"Oceans 2050","Germany","","","https://www.oceans2050.com/","0","","","NGO
 Research"
-"130","Oregon State University","Australia","","","https://www.uwa.edu.au/oceans-institute","0","Biology & ecology","","Research"
-"131","Pacific Northwest National Laboratory","France","","","https://www.olgram.com/en","0","Pharmaceuticals","","Research
+127,"Oceans Institute at UWA","Australia","","","https://www.uwa.edu.au/oceans-institute","0","Biology & ecology","","Research"
+128,"Olgram","France","","","https://www.olgram.com/en","0","Pharmaceuticals","","Research
 Applications"
-"132","Partnership for Australia-Indonesia Research","USA","","$740,161","","1","","",""
-"133","Plant systematics and evolution lab @ Ochanomizu University","USA","","$280,842
+129,"Oregon Sea Grant","USA","","$740,161","","1","","",""
+130,"Oregon State University","USA","","$280,842
 $740,161","","2","","",""
-"134","Polytechnic University of Marche (UNIVPM)","USA","","$2,025,984
+131,"Pacific Northwest National Laboratory","USA","","$2,025,984
 $500,000","https://www.pnnl.gov/","2","","",""
-"135","Qingdao Libangda Marine Technology","Indonesia","","","https://pair.australiaindonesiacentre.org/","0","Cultivation
+132,"Partnership for Australia-Indonesia Research","Indonesia","","","https://pair.australiaindonesiacentre.org/","0","Cultivation
 Socio-economic","","Research"
-"136","Queen's University of Belfast","Japan","","","http://www-p.sci.ocha.ac.jp/bio-shimada-lab/","0","Biology & ecology","","Research"
-"137","Research Institute for Marine Fisheries","France","","$2,025,531","","1","","",""
-"138","Roger Williams University","China","","","http://en.libangda.com/r-d-team/seaweed-research-center","0","","","Research"
-"139","Roscoff Marine Station","UK","","$2,761,902","","1","","",""
-"140","Royal Institute of Technology (KTH)","Vietnam","","","http://www.rimf.org.vn/","0","Cultivation","","Research"
-"141","Ryan Institute at NUI Galway","USA","","$254,187","","1","","",""
-"142","San Diego State University","France","","$7,036,025
+133,"Plant systematics and evolution lab @ Ochanomizu University","Japan","","","http://www-p.sci.ocha.ac.jp/bio-shimada-lab/","0","Biology & ecology","","Research"
+134,"Polytechnic University of Marche (UNIVPM)","France","","$2,025,531","","1","","",""
+135,"Qingdao Libangda Marine Technology","China","","","http://en.libangda.com/r-d-team/seaweed-research-center","0","","","Research"
+136,"Queen's University of Belfast","UK","","$2,761,902","","1","","",""
+137,"Research Institute for Marine Fisheries","Vietnam","","","http://www.rimf.org.vn/","0","Cultivation","","Research"
+138,"Roger Williams University","USA","","$254,187","","1","","",""
+139,"Roscoff Marine Station","France","","$7,036,025
 $1,751,479
 $969,588","http://www.sb-roscoff.fr/en","3","Biology & ecology","The evolution of reproductive systems and life cycles. Speciation, hybridization and adaptation at range margins. Domestication, management of genetic resources and environmental impact. Biology and biosynthesis of extra cellular matrix polysaccharides of marine macroalgae. Integrative biology of marine bacteria associated to macroalgae and marine polysaccharide degradation","Research"
-"143","San Jose State University","Sweden","","$958,043
+140,"Royal Institute of Technology (KTH)","Sweden","","$958,043
 $748,011
 $1,796,743","","3","","",""
-"144","SASAMS","","","","","","","",""
-"145","School of Marine Science and Ocean Engineering @ University of New Hampshire","Ireland","","$12,726,187
+141,"Ryan Institute at NUI Galway","Ireland","","$12,726,187
 $2,761,902
 $2,119,176","http://www.nuigalway.ie/ryaninstitute/","4","Multi-disciplinary","","Research"
-"146","Scottish Association for Marine Science (SAMS)","USA","","$55,359
+142,"San Diego State University","USA","","$55,359
 $659,180
 $159,800","","4","","",""
-"147","Scripps Institution of Oceanography @ University of California San Diego","USA","","$173,802","","1","","",""
-"148","Sea4Us","Mexico","","","http://sasams.org/","0","Biology & ecology","","Research"
-"149","Seafarm","USA","","$8,000,000
+143,"San Jose State University","USA","","$173,802","","1","","",""
+144,"SASAMS","Mexico","","","http://sasams.org/","0","Biology & ecology","","Research"
+145,"School of Marine Science and Ocean Engineering @ University of New Hampshire","USA","","$8,000,000
 $254,366","https://www.unh.edu/","2","","",""
-"150","Seaweed and Seagrass Research Unit @ Prince of Songkla University","UK","","$12,726,187
+146,"Scottish Association for Marine Science (SAMS)","UK","","$12,726,187
 $7,016,009
 $9,283,874","https://www.sams.ac.uk/","12","Multi-disciplinary","","Research
 Breeding & propagation"
-"151","Seaweed Research and Development Center","USA","","$39,912
+147,"Scripps Institution of Oceanography @ University of California San Diego","USA","","$39,912
 $1,212,508
 $358,435","","3","","",""
-"152","Sintef","Portugal","","","https://sea4us.pt/","0","Pharmaceuticals","","Research
+148,"Sea4Us","Portugal","","","https://sea4us.pt/","0","Pharmaceuticals","","Research
 Applications"
-"153","South Australian Research and Development Institute","Sweden","","","http://seafarm.se/","0","Cultivation","","Research"
-"154","Southeast Asian Fisheries Development Center @ Aquaculture Department","Thailand","","","http://www.biology.sci.psu.ac.th/seaweed-and-seagrass-research-unit/","0","Biology & ecology","","Research"
-"155","Stazione Zoologica Anton Dohrn (SZN)","Philippines","","","https://www.facebook.com/seaweedRDcenter/","0","","","Research"
-"156","Stichting Zeeschelp","Norway","","$12,726,187
+149,"Seafarm","Sweden","","","http://seafarm.se/","0","Cultivation","","Research"
+150,"Seaweed and Seagrass Research Unit @ Prince of Songkla University","Thailand","","","http://www.biology.sci.psu.ac.th/seaweed-and-seagrass-research-unit/","0","Biology & ecology","","Research"
+151,"Seaweed Research and Development Center","Philippines","","","https://www.facebook.com/seaweedRDcenter/","0","","","Research"
+152,"Sintef","Norway","","$12,726,187
 $660,494
 $748,011","https://www.sintef.no/en/","13","Cultivation
 Applications","","Research"
-"157","Stony Brook University","","","$1,103,333","","1","","",""
-"158","Submariner Network","Thailand","","$7,380,263","http://www.seafdec.org/","1","Cultivation","","Research"
-"159","SUREAQUA","Italy","","$2,025,531","","1","","",""
-"160","Sustainable Aquaculture Innovation Centre","Netherlands","","","http://www.zeeschelp.nl/","0","Cultivation","","Research"
-"161","Sustainable Aquaculture Lab at Embrapa Tropical Agroindustry","USA","","$91,667","","1","","",""
-"162","Sustainable Seaweed Solutions @ UC Irvine Department of Earth System Science","Germany","","","https://www.submariner-network.eu/","0","Applications","","Multi-stakeholder platform"
-"163","Takehara Station Kato Lab at Hiroshima University","Norway","","","https://www.nordforsk.org/projects/nordic-centre-sustainable-and-resilient-aquatic-production-sureaqua-0","0","Cultivation
+153,"South Australian Research and Development Institute","","","$1,103,333","","1","","",""
+154,"Southeast Asian Fisheries Development Center @ Aquaculture Department","Thailand","","$7,380,263","http://www.seafdec.org/","1","Cultivation","","Research"
+155,"Stazione Zoologica Anton Dohrn (SZN)","Italy","","$2,025,531","","1","","",""
+156,"Stichting Zeeschelp","Netherlands","","","http://www.zeeschelp.nl/","0","Cultivation","","Research"
+157,"Stony Brook University","USA","","$91,667","","1","","",""
+158,"Submariner Network","Germany","","","https://www.submariner-network.eu/","0","Applications","","Multi-stakeholder platform"
+159,"SUREAQUA","Norway","","","https://www.nordforsk.org/projects/nordic-centre-sustainable-and-resilient-aquatic-production-sureaqua-0","0","Cultivation
 Applications","","Multi-stakeholder platform"
-"164","Texas A&M University","","","$169,308","","1","","",""
-"165","The Flinders University of South Australia","Brazil","Janaina Mitsue Kimpara","$9,358,759","https://www.embrapa.br/en/agroindustria-tropical/apresentacao","1","","",""
-"166","The James Hutton Institute","USA","","$37,000
+160,"Sustainable Aquaculture Innovation Centre","","","$169,308","","1","","",""
+161,"Sustainable Aquaculture Lab at Embrapa Tropical Agroindustry","Brazil","Janaina Mitsue Kimpara","$9,358,759","https://www.embrapa.br/en/agroindustria-tropical/apresentacao","1","","",""
+162,"Sustainable Seaweed Solutions @ UC Irvine Department of Earth System Science","USA","","$37,000
 $1,965,529
 $155,014","https://www.ess.uci.edu/~sjdavis/seaweed.html","4","","",""
-"167","The Marine Environment and Resources Foundation @ University of the Philippines Diliman","Japan","","","https://fishlab.hiroshima-u.ac.jp/kenkyu-shokai/kato-ken/kato-ken.html","0","Biology & ecology","","Research"
-"168","TNO Seaweed processing facility","USA","","$956,923
+163,"Takehara Station Kato Lab at Hiroshima University","Japan","","","https://fishlab.hiroshima-u.ac.jp/kenkyu-shokai/kato-ken/kato-ken.html","0","Biology & ecology","","Research"
+164,"Texas A&M University","USA","","$956,923
 $239,461","","2","","",""
-"169","Tokyo University of Marine Science and Technology","Australia","Wei Zhang","$387,544","","1","","",""
-"170","Tropical Seaweed Innovation Network","UK","","$216,560
+165,"The Flinders University of South Australia","Australia","Wei Zhang","$387,544","","1","","",""
+166,"The James Hutton Institute","UK","","$216,560
 $765,334","","2","","",""
-"171","UNHAS Pusat Riset dan Pengembangan Rumput Laut","","","$792,712","","1","","",""
-"172","Universidad Austral de Chile","Netherlands","","$7,016,009","https://www.tno.nl/en/focus-areas/energy-transition/roadmaps/towards-co2-neutral-industry/biomass-to-fuels-and-feedstock/new-facility-for-seaweed-processing/","1","Cultivation
+167,"The Marine Environment and Resources Foundation @ University of the Philippines Diliman","","","$792,712","","1","","",""
+168,"TNO Seaweed processing facility","Netherlands","","$7,016,009","https://www.tno.nl/en/focus-areas/energy-transition/roadmaps/towards-co2-neutral-industry/biomass-to-fuels-and-feedstock/new-facility-for-seaweed-processing/","1","Cultivation
 Processing","","Research
 Biorefinery"
-"173","Universidade Federal do Rio Grande","Japan","","","https://www.kaiyodai.ac.jp/english/","0","Biology & ecology","","Research"
-"174","Universitat de Girona (UdG)","Indonesia","","","https://www.seaweednetwork.id/","0","Cultivation","","Research"
-"175","Université de Bretagne Occidentale (UBO)","Indonesia","","","http://indoseaweedconsortium.or.id/","0","Cultivation","","Research"
-"176","Université Nice Sophia Antipolis (UNS)","","","$792,712","","1","","",""
-"177","University Chouaïb Doukkali (UCD)","Brazil","","$9,283,874
+169,"Tokyo University of Marine Science and Technology","Japan","","","https://www.kaiyodai.ac.jp/english/","0","Biology & ecology","","Research"
+170,"Tropical Seaweed Innovation Network","Indonesia","","","https://www.seaweednetwork.id/","0","Cultivation","","Research"
+171,"UNHAS Pusat Riset dan Pengembangan Rumput Laut","Indonesia","","","http://indoseaweedconsortium.or.id/","0","Cultivation","","Research"
+172,"Universidad Austral de Chile","","","$792,712","","1","","",""
+173,"Universidade Federal do Rio Grande","Brazil","","$9,283,874
 $9,358,759","https://www.furg.br/en/","2","Biology & ecology","","Research"
-"178","University College London","Spain","","$2,025,531","","1","","",""
-"179","University of Alabama","France","","$263,850
+174,"Universitat de Girona (UdG)","Spain","","$2,025,531","","1","","",""
+175,"Université de Bretagne Occidentale (UBO)","France","","$263,850
 $2,337,417","","2","","",""
-"180","University of Alaska Fairbanks","","","","","","","",""
-"181","University of Cape Town","UK","","$1,104,678
+176,"Université Nice Sophia Antipolis (UNS)","France","","$2,025,531","","1","","",""
+177,"University Chouaïb Doukkali (UCD)","Morocco","","$2,025,531","","1","","",""
+178,"University College London","UK","","$1,022,757
+$407,327","","2","","",""
+179,"University of Alabama","USA","","$698,825
+$956,923","","2","","",""
+180,"University of Alaska Fairbanks","USA","","$3,132,133
+$9,999
+$270,148","https://uaf.edu/cfos/research/institute-of-marine-scien/","5","","","Research"
+181,"University of Cape Town","South Africa","","$9,283,874","http://www.uct.ac.za/","1","","","Research"
+182,"University of Connecticut","USA","","$299,605","","1","","",""
+183,"University of Dar es Salaam Marine Sciences Institute","Tanzania","","$7,380,263","https://udsm.ac.tz/web/index.php/institutes/ims","1","","","Research"
+184,"University of Exeter","UK","","$845,767
+$63,940","","2","","",""
+185,"University of Hawaii","USA","","$792,021","","1","","",""
+186,"University of Maine","USA","","$149,980
+$908,015","","2","","",""
+187,"University of Maryland","USA","","$515,848","","1","","",""
+188,"University of Massachusetts-Boston","USA","","$89,571","","1","","",""
+189,"University of Melbourne","Australia","","$321,410","","1","","",""
+190,"University of Namibia","Namibia","","$9,358,759","https://www.unam.edu.na/sanumarc/research-focus-areas","1","Cultivation","","Research"
+191,"University of New Brunswick","Canada","","","https://www2.unb.ca/chopinlab/","0","Biology & ecology
+Cultivation","","Research"
+192,"University of New England","USA","","$1,323,867
+$9,358,759
+$78,308","https://www.une.edu/","3","","","Research"
+193,"University of NSW","Australia","","$271,209
+$316,080
+$199,769","","3","","",""
+194,"University of Otago","New Zealand","","$683,880","","1","","",""
+195,"University of Porto","Portugal","","$2,761,902","","1","","",""
+196,"University of Sao Paolo","Brazil","Cicero Alves-Lima","$263,603","https://www5.usp.br/","1","","",""
+197,"University of Southampton","UK","","$1,193,233","","1","","",""
+198,"University of Southern Maine","","","$250,000","","1","","",""
+199,"University of Stirling","UK","","$1,104,678
 $169,308","","2","","",""
-"182","University of Connecticut","Australia","","$255,125","","1","","",""
-"183","University of Dar es Salaam Marine Sciences Institute","Philippines","","","https://www.upv.edu.ph/index.php/research","0","Cultivation","","Research"
-"184","University of Exeter","Japan","","","http://www.biology.sci.u-ryukyu.ac.jp/?post_type=laboratory&lang=en","0","Biology & ecology","","Research"
-"185","University of Hawaii","Australia","","$312,832","","1","","",""
-"186","University of Maine","Jamaica","","$263,850
+200,"University of Tasmania","Australia","","$255,125","","1","","",""
+201,"University of the Philippines Visayas","Philippines","","","https://www.upv.edu.ph/index.php/research","0","Cultivation","","Research"
+202,"University of the Ryukyus","Japan","","","http://www.biology.sci.u-ryukyu.ac.jp/?post_type=laboratory&lang=en","0","Biology & ecology","","Research"
+203,"University of the Sunshine Coast","Australia","","$312,832","","1","","",""
+204,"University of the West Indies","Jamaica","","$263,850
 $263,603","","2","","",""
-"187","University of Maryland","Italy","","$748,011
+205,"University of Trieste (UNITS)","Italy","","$748,011
 $958,043","","2","","",""
-"188","University of Massachusetts-Boston","Japan","","","http://plmet.biol.tsukuba.ac.jp/algalres.html","0","Biology & ecology
+206,"University of Tsukuba Algae Research Unit","Japan","","","http://plmet.biol.tsukuba.ac.jp/algalres.html","0","Biology & ecology
 Applications","","Research"
-"189","University of Melbourne","Portugal","","$2,761,902","","1","","",""
-"190","University of Namibia","Brazil","Cicero Alves-Lima","$263,603","https://www5.usp.br/","1","","",""
-"191","University of New Brunswick","UK","","$1,193,233","","1","","",""
-"192","University of New England","","","$250,000","","1","","",""
-"193","University of NSW","UK","","$1,104,678
-$169,308","","2","","",""
-"194","University of Otago","Australia","","$255,125","","1","","",""
-"195","University of Porto","Philippines","","","https://www.upv.edu.ph/index.php/research","0","Cultivation","","Research"
-"196","University of Sao Paolo","Japan","","","http://www.biology.sci.u-ryukyu.ac.jp/?post_type=laboratory&lang=en","0","Biology & ecology","","Research"
-"197","University of Southampton","Australia","","$312,832","","1","","",""
-"198","University of Southern Maine","Jamaica","","$263,850
-$263,603","","2","","",""
-"199","University of Stirling","Italy","","$748,011
-$958,043","","2","","",""
-"200","University of Tasmania","Japan","","","http://plmet.biol.tsukuba.ac.jp/algalres.html","0","Biology & ecology
-Applications","","Research"
-"201","University of the Philippines Visayas","USA","","$1,212,508","","1","","",""
-"202","University of the Ryukyus","","","$2,900,000","","1","","",""
-"203","University of the Sunshine Coast","Albania","","$2,025,531","","1","","",""
-"204","University of the West Indies","New Zealand","","$2,734,987
+207,"University of Utah","USA","","$1,212,508","","1","","",""
+208,"University of Vermont","","","$2,900,000","","1","","",""
+209,"University of Vlora “Ismail Qemali” (UV)","Albania","","$2,025,531","","1","","",""
+210,"University of Waikato Macroalgae Research Facility","New Zealand","","$2,734,987
 $1,815,696
 $3,423,371","https://www.waikato.ac.nz/eri/algae","3","","",""
-"205","University of Trieste (UNITS)","USA","","$138,517","","1","","",""
-"206","University of Tsukuba Algae Research Unit","Australia","","$259,747
+211,"University of Washington","USA","","$138,517","","1","","",""
+212,"University of Western Australia","Australia","","$259,747
 $303,037","","2","","",""
-"207","University of Utah","USA","","$5,151,250","https://uwm.edu/freshwater/research-overview/great-lakes-aquaculture-center/","1","Biology & ecology","","Research"
-"208","University of Vermont","UK","Mattia Parati","","","0","","",""
-"209","University of Vlora “Ismail Qemali” (UV)","UK","","$12,726,187","https://www.york.ac.uk/biology/centrefornovelagriculturalproducts/research/algal-metabolism-and-biotechnology/","1","Applications","","Research"
-"210","University of Waikato Macroalgae Research Facility","","","$1,831,138","","1","","",""
-"228","University of Washington","Japan","","","http://www.kochi-u.ac.jp/kaiyo/syokubutu/top.htm","0","Biology & ecology","","Research"
-"229","University of Western Australia","Australia","","","https://www.usc.edu.au/research/animal-and-marine-ecology/seaweed-research-group","0","Multi-disciplinary","","Research"
-"230","University of Wisconsin-Milwaukee","Japan","","","http://org.fukuyama-u.ac.jp/marine-bio/kaisou/index.html","0","Cultivation","","Research"
-"231","University of Wolverhampton","Canada","","","http://www.verschurencentre.ca/","0","Biology & ecology","","Research"
-"232","University of York","Belgium","","$8,764,941
+213,"University of Wisconsin-Milwaukee","USA","","$5,151,250","https://uwm.edu/freshwater/research-overview/great-lakes-aquaculture-center/","1","Biology & ecology","","Research"
+214,"University of Wolverhampton","UK","Mattia Parati","","","0","","",""
+215,"University of York","UK","","$12,726,187","https://www.york.ac.uk/biology/centrefornovelagriculturalproducts/research/algal-metabolism-and-biotechnology/","1","Applications","","Research"
+216,"Univresity of Copenhagen","","","$1,831,138","","1","","",""
+217,"Usa Marine Biological Institute @ Kochi University","Japan","","","http://www.kochi-u.ac.jp/kaiyo/syokubutu/top.htm","0","Biology & ecology","","Research"
+218,"USC Seaweed Research Group","Australia","","","https://www.usc.edu.au/research/animal-and-marine-ecology/seaweed-research-group","0","Multi-disciplinary","","Research"
+219,"Utsumi Lab @ Fukuyama University","Japan","","","http://org.fukuyama-u.ac.jp/marine-bio/kaisou/index.html","0","Cultivation","","Research"
+220,"Verschuren Centre for Sustainability","Canada","","","http://www.verschurencentre.ca/","0","Biology & ecology","","Research"
+221,"Vlaamse Instelling voor Technologisch Onderzoek (VITO)","Belgium","","$8,764,941
 $3,054,414","https://vito.be/nl","2","","",""
-"233","Univresity of Copenhagen","USA","","$138,517
+222,"Washington Sea Grant","USA","","$138,517
 $99,997","","2","","",""
-"234","Usa Marine Biological Institute @ Kochi University","USA","","$4,228,154
+223,"Woods Hole Oceanographic Institute","USA","","$4,228,154
 $2,056,621
 $299,605","https://www.whoi.edu/","3","","",""
-"235","USC Seaweed Research Group","Netherlands","","$12,726,187
+224,"WUR - Wageningen University & Research","Netherlands","","$12,726,187
 $4,859,731
 $7,016,009","https://www.wur.nl/en.htm","8","Cultivation
 Applications","","Research"
-"236","Utsumi Lab @ Fukuyama University",NA,NA,NA,NA,NA,NA,NA,NA
-"237","Verschuren Centre for Sustainability",NA,NA,NA,NA,NA,NA,NA,NA
-"238","Vlaamse Instelling voor Technologisch Onderzoek (VITO)",NA,NA,NA,NA,NA,NA,NA,NA
-"239","Washington Sea Grant",NA,NA,NA,NA,NA,NA,NA,NA
-"240","Woods Hole Oceanographic Institute",NA,NA,NA,NA,NA,NA,NA,NA
-"241","WUR - Wageningen University & Research",NA,NA,NA,NA,NA,NA,NA,NA
