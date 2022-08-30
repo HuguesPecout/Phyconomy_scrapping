@@ -1,0 +1,5 @@
+Source : https://airtable.com/shrGYaj6CikiaXEhH/tblZFNBiWgVocM5BA/viwpawOq6LL8eHnqL
+
+Date : Aout 2022
+
+Scripts (non-reproductible) : https://github.com/HuguesPecout/Phyconomy_scrapping
