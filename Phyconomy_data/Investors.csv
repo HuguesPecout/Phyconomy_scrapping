@@ -1,250 +1,252 @@
-"ID";"Name";"Headquarters";"Of.investments";"Investments";"Type";"Focus";"Website"
-1;"Blue Bio Value";"Portugal";19;"B'zeos
+"","ID","Name","Headquarters","Of investments","Investments","Type","Focus","Website"
+"36",1,"Blue Bio Value","Portugal","19","B'zeos
 Ficosterra
 Futuralga
-Ínclita Seaweed Solutions";"Incubator / accelerator";"Ocean";"https://www.bluebiovalue.com/"
-2;"Angel investors (various)";"";11;"Tango Seaweed AS
+Ínclita Seaweed Solutions","Incubator / accelerator","Ocean","https://www.bluebiovalue.com/"
+"35",2,"Angel investors (various)","","11","Tango Seaweed AS
 Volta Greentech
-Running Tide";"Angel investor";"";""
-3;"EIT Climate-KIC";"EU";9;"Vetik
+Running Tide","Angel investor","",""
+"34",3,"EIT Climate-KIC","EU","9","Vetik
 Kelpy
 Dulabio
 B'zeos
 Umameats
-Nordic Algae (failed)";"Incubator / accelerator";"Climate";"https://www.climate-kic.org/"
-4;"Crowdfunding";"";7;"Mara Seaweed
+Nordic Algae (failed)","Incubator / accelerator","Climate","https://www.climate-kic.org/"
+"33",4,"Crowdfunding","","7","Mara Seaweed
 Notpla
-Carbonwave (formerly C-Combinator)";"Crowdfunding";"";""
-5;"EASME - EU Executive Agency for SMEs";"EU";5;"Alginor
+Carbonwave (formerly C-Combinator)","Crowdfunding","",""
+"32",5,"EASME - EU Executive Agency for SMEs","EU","5","Alginor
 Brandon Bioscience
-Seaweed Solutions";"Govt fund";"Local";"https://ec.europa.eu/easme/en"
-6;"Katapult Ocean";"Norway";5;"Ocean Rainforest
+Seaweed Solutions","Govt fund","Local","https://ec.europa.eu/easme/en"
+"31",6,"Katapult Ocean","Norway","5","Ocean Rainforest
 Oceanium
 Oregon Dulse
-12 Tides";"Incubator / accelerator
-Impact investor";"Ocean";"https://katapultocean.com/"
-7;"Sea Ahead";"USA";5;"Ocean Rainforest
+12 Tides","Incubator / accelerator
+Impact investor","Ocean","https://katapultocean.com/"
+"30",7,"Sea Ahead","USA","5","Ocean Rainforest
 Akua
-Carbonwave (formerly C-Combinator)";"Incubator / accelerator
-Early-stage VC";"Ocean";"https://sea-ahead.com/"
-8;"ARPA-E";"USA";4;"Umaro
+Carbonwave (formerly C-Combinator)","Incubator / accelerator
+Early-stage VC","Ocean","https://sea-ahead.com/"
+"29",8,"ARPA-E","USA","4","Umaro
 Primary Ocean Producers
-Fearless Fund";"Govt fund";"Energy";"https://arpa-e.energy.gov/"
-9;"Sustainable Ocean Alliance";"USA";4;"B'zeos
+Fearless Fund","Govt fund","Energy","https://arpa-e.energy.gov/"
+"28",9,"Sustainable Ocean Alliance","USA","4","B'zeos
 Seaforestation
 Sway
-Oceanium";"Incubator / accelerator";"Ocean";"https://www.soalliance.org/"
-10;"Builders Vision";"USA";3;"Oceanium
+Oceanium","Incubator / accelerator","Ocean","https://www.soalliance.org/"
+"27",10,"Builders Vision","USA","3","Oceanium
 Urchinomics
-Atlantic Sea Farms (Ocean Approved)";"Family office";"Food / agriculture";"https://www.buildersvision.com/"
-11;"EIT Food Accelerator Network";"EU";3;"Sea & Believe (formerly Plantruption)
+Atlantic Sea Farms (Ocean Approved)","Family office","Food / agriculture","https://www.buildersvision.com/"
+"26",11,"EIT Food Accelerator Network","EU","3","Sea & Believe (formerly Plantruption)
 B'zeos
-Biotic";"Incubator / accelerator";"Food / agriculture";"https://www.eitfood.eu/projects/eit-food-accelerator-network"
-12;"For Good Ventures";"USA";3;"Loliware
+Biotic","Incubator / accelerator","Food / agriculture","https://www.eitfood.eu/projects/eit-food-accelerator-network"
+"25",12,"For Good Ventures","USA","3","Loliware
 Carbonwave (formerly C-Combinator)
-Primary Ocean Producers";"Family office
-Impact investor";"";"https://forgoodventures.com/"
-13;"Innovation Norway";"Norway";3;"Thalasso Ocean
-Norwegian Seaweed Production";"Govt fund";"Local";"https://www.innovasjonnorge.no/en/start-page/"
-14;"MassChallenge";"USA";3;"Akua
+Primary Ocean Producers","Family office
+Impact investor","","https://forgoodventures.com/"
+"24",13,"Innovation Norway","Norway","3","Thalasso Ocean
+Norwegian Seaweed Production","Govt fund","Local","https://www.innovasjonnorge.no/en/start-page/"
+"23",14,"MassChallenge","USA","3","Akua
 Biotic
-FlexSea";"Incubator / accelerator";"";"https://masschallenge.org/"
-15;"Morten Kroslid";"Norway";3;"Arctic Seaweed
+FlexSea","Incubator / accelerator","","https://masschallenge.org/"
+"22",15,"Morten Kroslid","Norway","3","Arctic Seaweed
 Metal Production
-Redrose Developments Ltd";"Angel investor";"";""
-16;"Ocean Startup Challenge";"Canada";3;"Turquoise Revolution
-SeaChange Biochemistry
-Intellireefs";"Incubator / accelerator";"Ocean";"https://oceanstartupproject.ca/challenge/"
-17;"Activate";"USA";2;"Umaro
-Trophic / TROFX";"Incubator / accelerator";"Climate";"https://www.activate.org/"
-18;"Aksello";"Norway";2;"Thalasso Ocean
-Norwegian Seaweed Production";"Incubator / accelerator";"Local";"https://aksello.no/"
-19;"Alaska Ocean Cluster";"USA";2;"Foraged & Found
-Noble Ocean Farms";"Incubator / accelerator";"Ocean";"https://www.alaskaoceancluster.com/"
-20;"ASICS";"Japan";2;"Smartfiber
-Pyratex (Pyrates)";"Corporate";"Fashion";"https://www.asics.com/"
-21;"Astanor Ventures";"Belgium";2;"Notpla
-BettaF!sh";"Impact investor";"Food / agriculture";"https://astanor.com/"
-22;"Blue Horizon";"Switzerland";2;"New Wave Foods
-Dutch weed burger";"Venture capital";"Food / agriculture";"https://www.bluehorizon.com/"
-23;"Conservation International Ventures";"USA";2;"Sway
-Coast 4C";"Impact investor";"Conservation";"https://www.conservation.org/projects/conservation-international-ventures-llc"
-24;"Gratitude Railroad";"USA";2;"Ocean's Halo (New Frontier Foods)
-Loliware";"Incubator / accelerator
-Impact investor";"";"https://gratituderailroad.com/"
-25;"Maritime Blue";"USA";2;"Algeon Materials
-Blue Dot Sea Farms";"Incubator / accelerator";"Ocean";"https://maritimeblue.org/"
-26;"Rockstart Agrifood";"Netherlands";2;"Biotic
-Alganex";"Early-stage VC";"Food / agriculture";"https://www.rockstart.com/"
-27;"SAPEC";"Portugal";2;"ALGAplus Lda
-Algaia";"Holding";"";"https://www.sapec.pt/"
-28;"Seaworthy Collective";"USA";2;"Thalasso Ocean
-Kee Farms";"Incubator / accelerator";"Ocean";"https://www.seaworthycollective.com/"
-29;"Sky Ocean Ventures";"UK";2;"Notpla
-Oceanium";"Nonprofit";"Plastics";"https://www.skyoceanrescue.com/skyoceanventures"
-30;"SOSV / IndieBio";"USA";2;"Algiknit
-Sea & Believe (formerly Plantruption)";"Venture capital
-Incubator / accelerator";"";"https://sosv.com/"
-31;"startBlue";"USA";2;"Algeon Materials
-Daybreak Seaweed (formerly Salt Point)";"Incubator / accelerator";"Ocean";"https://startblue.ucsd.edu/"
-32;"Valor Siren Ventures";"USA";2;"Blue Ocean Barns
-Sway";"Venture capital";"Food / agriculture";"https://www.valorep.com/valor-siren-ventures-vsv"
-33;"We come from the sea";"USA";2;"Carbonwave (formerly C-Combinator)
-Tango Seaweed AS";"Nonprofit";"Ocean";"https://wecomefromthesea.org/"
-34;"WWF";"USA";2;"Ocean Rainforest
-Oceanium";"Nonprofit";"Conservation";"https://www.worldwildlife.org/"
-35;"Y Combinator";"USA";2;"Phykos
-Alga Biosciences";"Incubator / accelerator";"";"https://www.ycombinator.com/"
-36;"Accelerace";"Denmark";1;"Nordisk Tang - Nordic Seaweed Aps";"Incubator / accelerator";"";"https://www.accelerace.io/"
-37;"Agfunder";"USA";1;"Umaro";"Venture capital";"Food / agriculture";"https://agfunder.com/"
-38;"Agribusiness Advisors";"Canada";1;"Bioform";"Early-stage VC";"Food / agriculture";"http://agribusinessadvisors.com/"
-39;"Alante Capital";"USA";1;"Sway";"Venture capital";"Fashion
-Plastics";"https://www.alantecapital.com/"
-40;"Alberts Impact Capital";"Australia";1;"Uluu";"Impact investor
-Family office";"";"https://www.alberts.co/"
-41;"Alexandria Venture Investments";"USA";1;"Umaro";"Venture capital";"Food / agriculture";"https://www.are.com/venture-investments.html"
-42;"Almi Invest";"Sweden";1;"Nordic Seafarm (prev. Kosteralg)";"Venture capital";"";"https://www.almi.se/"
-43;"Alumni Ventures Group";"USA";1;"Akua";"Venture capital";"";"https://www.avgfunds.com/"
-44;"AquaSpark";"Netherlands";1;"Sea6";"Venture capital";"Aquaculture";"https://www.aqua-spark.nl/"
-45;"Australis Aquaculture";"USA";1;"Greener Grazing";"Corporate";"Aquaculture";"https://www.thebetterfish.com/"
-46;"BAM Ventures";"USA";1;"Sway";"Venture capital";"";"https://www.bam.vc/"
-47;"Baruch Future Ventures";"USA";1;"Carbonwave (formerly C-Combinator)";"Venture capital";"";"https://www.baruch.vc/"
-48;"BASF Venture Capital";"Germany";1;"Sea6";"Venture capital";"";""
-49;"Big Idea Ventures";"USA";1;"New Wave Foods";"Venture capital";"Food / agriculture";""
-50;"Biolchim";"Italy";1;"West Coast Marine Bio Processing Corp.";"Corporate";"Food / agriculture";"https://www.biolchim.com/en/"
-51;"Blue Natural Capital (IUCN)";"Luxembourg";1;"SeatechEnergy";"Nonprofit";"Ocean";"https://bluenaturalcapital.org/"
-52;"Blue Wire Capital";"UK";1;"Ocean Harvest Technology";"Venture capital";"";"https://www.bluewirecapital.com/"
-53;"Borregaard";"Norway";1;"Alginor";"Corporate";"";""
-54;"Bpifrance";"France";1;"Olgram";"Govt fund";"Local";"https://www.bpifrance.com/"
-55;"Bristol Private Equity Club (BPEC)";"UK";1;"Kelpi";"Angel syndicate";"";"http://www.bristolprivateequityclub.com/"
-56;"C3 Capital";"USA";1;"Sway";"Venture capital";"";""
-57;"Cava Capital";"USA";1;"Ocean's Halo (New Frontier Foods)";"Early-stage VC";"";"https://cavacapital.com/"
-58;"Cayuse Partners";"USA";1;"Carbonwave (formerly C-Combinator)";"Impact investor";"Climate";"http://www.cayusepartners.com/"
-59;"Centre Street Partners";"USA";1;"Sway";"Venture capital";"";""
-60;"City Light";"USA";1;"Carbonwave (formerly C-Combinator)";"Early-stage VC
-Venture capital";"";"https://citylight.vc/"
-61;"CityRock Venture Partners";"USA";1;"Loliware";"Venture capital";"";"https://www.cityrock.vc/"
-62;"Clear Current Capital";"USA";1;"Umaro";"Venture capital";"Food / agriculture";"https://www.clearcurrentcapital.com/"
-63;"Climate Fund Managers";"Netherlands";1;"Kelp Blue";"Impact investor";"Climate";"https://climatefundmanagers.com/"
-64;"Closed Loop Partners";"USA";1;"Loliware";"Venture capital";"Circular economy";"https://www.closedlooppartners.com/"
-65;"Collaborative Fund";"USA";1;"Algiknit";"Venture capital";"";"https://www.collaborativefund.com/"
-66;"Colruyt";"Belgium";1;"The Seaweed Company";"Corporate";"Food / agriculture";""
-67;"Connect BAN Bergen";"Norway";1;"Tekslo Seafood";"Angel syndicate";"Local";"https://connectvest.no/investor-3/"
-68;"CSIRO";"Australia";1;"FutureFeed";"Govt fund";"Local";"https://www.csiro.au/"
-69;"Danone Manifesto Ventures";"France";1;"Symbrosia";"Venture capital";"Food / agriculture";"https://www.danoneventures.com/"
-70;"DCVC / DCVC Bio";"USA";1;"CH4Global";"Venture capital";"(Deep) Tech";"https://www.dcvc.com/"
-71;"De Beers";"UK";1;"Kelp Blue";"";"";""
-72;"De Smaakspecialist";"Netherlands";1;"Seamore";"Corporate";"";""
-73;"Demeter Partners";"France";1;"Algaia";"Venture capital
-Impact investor";"";"https://demeter-im.com/en/home/"
-74;"Desert Bloom Food Ventures";"USA";1;"Atlantic Sea Farms (Ocean Approved)";"Venture capital";"Food / agriculture";"https://www.desertbloomfoods.com/"
-75;"EIC Accelerator";"EU";1;"Alginor";"Govt fund";"Local";"https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
-76;"Elemental Excelerator";"USA";1;"Blue Ocean Barns";"Incubator / accelerator
-Impact investor";"Climate";"https://elementalexcelerator.com/"
-77;"ENEOS Group";"Japan";1;"Urchinomics";"Holding";"Energy";"https://www.hd.eneos.co.jp/english/"
-78;"Eos Capital";"Namibia";1;"Kelp Blue";"Private equity";"Local";"https://www.eoscapital.com.na/"
-79;"European Innovation Council Fund (EIC Fund)";"EU";1;"Alginor";"Govt fund";"";"https://eic.ec.europa.eu/index_en"
-80;"Evolution VC";"USA";1;"New Wave Foods";"Venture capital";"";""
-81;"Fashion For Good";"Netherlands";1;"Algiknit";"Venture capital";"Fashion";"https://fashionforgood.com/investments/"
-82;"Fifth Down Capital";"USA";1;"Akua";"Venture capital";"";"https://www.fifthdowncap.com/"
-83;"FIT Food Tech";"Switzerland";1;"B'zeos";"Incubator / accelerator";"Food / agriculture";""
-84;"Founder Collective";"USA";1;"Running Tide";"Early-stage VC";"";"https://www.foundercollective.com/"
-85;"Fresh Source Capital";"USA";1;"Atlantic Sea Farms (Ocean Approved)";"Venture capital";"Food / agriculture";"https://www.freshsourcecapital.com/"
-86;"Fundo Azul";"Portugal";1;"Ínclita Seaweed Solutions";"Govt fund";"Ocean";"https://www.dgpm.mm.gov.pt/fundo-azul"
-87;"Goeiegrutten";"Netherlands";1;"Zeewaar";"Impact investor";"Food / agriculture";"https://goeie-grutten.nl/en/"
-88;"GrainCorp";"Australia";1;"FutureFeed";"Corporate";"Food / agriculture";"http://www.graincorp.com.au/"
-89;"Green Angel Syndicate";"UK";1;"Oceanium";"Angel syndicate";"Climate";"https://greenangelsyndicate.com/"
-90;"Green Light";"Australia";1;"Sea Health Products";"Incubator / accelerator";"Algae";"https://www.uts.edu.au/research-and-teaching/our-research/climate-change-cluster/deep-green-biotech-hub/innovation/green-light-accelerator-program/"
-91;"GROW";"Singapore";1;"SEADLING";"Incubator / accelerator";"Food / agriculture";"https://www.gogrow.co/"
-92;"H&M CO:LAB";"Sweden";1;"Algiknit";"Corporate
-Venture capital";"";""
-93;"Halogen Ventures";"USA";1;"Akua";"Early-stage VC";"";"https://halogenvc.com/"
-94;"Harvest Road";"Australia";1;"FutureFeed";"Corporate";"Food / agriculture";"https://www.harvestroad.com/"
-95;"Hatch";"Norway";1;"Symbrosia";"Incubator / accelerator";"Aquaculture";"https://www.hatch.blue/"
-96;"Hatteland Group";"Norway";1;"Alginor";"Corporate";"";""
-97;"Highlands and Islands Enterprise";"UK";1;"Shore Seaweed";"Govt fund";"Local";"https://www.hie.co.uk/"
-98;"Horizons Ventures";"Hong Kong";1;"Algiknit";"Venture capital";"";"https://www.horizonsventures.com/"
-99;"Impact Science Ventures";"USA";1;"Umaro";"Impact investor
-Venture capital";"";"https://www.impactscience.vc/"
-100;"Incite";"USA";1;"Carbonwave (formerly C-Combinator)";"Venture capital";"";"https://www.incite.org/"
-101;"Indorama Ventures";"Thailand";1;"Eranova";"Corporate";"Plastics";"https://www.indoramaventures.com/"
-102;"Industry Capital";"USA";1;"Sea Greens Farms (failed)";"Private equity";"Real assets";"https://www.industrycapital.com/"
-103;"JCE Ventures";"Sweden";1;"Nordic Seafarm (prev. Kosteralg)";"Venture capital";"";"https://jce.se/"
-104;"Jeremy and Hannelore Grantham Environmental Trust";"USA";1;"Ocean Rainforest";"Family office";"Conservation";"http://www.granthamtrust.org/"
-105;"K1W1 - Stephen Tindall";"New Zealand";1;"CH4Global";"Angel investor";"Climate";""
-106;"Kale United";"Sweden";1;"Nordic Seafarm (prev. Kosteralg)";"Holding";"Food / agriculture";"https://www.kaleunited.com/"
-107;"Karmagawa";"USA";1;"Akua";"Nonprofit";"";"https://karmagawa.org/"
-108;"Kernel Capital";"Ireland";1;"BioAtlantis Limited";"Venture capital";"Local";"https://www.kernel-capital.com/"
-109;"Kiilto Ventures";"Finland";1;"Origin by Ocean";"Family office
-Corporate";"Local";"https://kiiltoventures.fi/"
-110;"Kjell & Märta Beijers Foundation";"Sweden";1;"Volta Greentech";"Family office";"Local";"http://www.beijerstiftelsen.se/"
-111;"KPMG Finland";"Finland";1;"Origin by Ocean";"Venture capital";"Local";"https://insight.kpmg.fi/view2020"
-112;"Livekindly Collective";"USA";1;"Dutch weed burger";"Holding";"Food / agriculture";"https://thelivekindlyco.com/"
-113;"Lowercarbon Capital";"USA";1;"Running Tide";"Venture capital";"Climate";"https://lowercarboncapital.com/"
-114;"Lupa Systems";"USA";1;"Notpla";"Venture capital";"";"http://www.lupasystems.com/"
-115;"Maabarot";"Israel";1;"Algaia";"Corporate";"Food / agriculture";"http://www.maabarot.com/"
-116;"Macquarie Infrastructure and Real Assets (MIRA)";"Australia";1;"Sea Forest Australia";"Private equity";"Real assets";"https://www.mirafunds.com/uk/en.html"
-117;"Main Sequence";"Australia";1;"Uluu";"Venture capital
-Govt fund";"Local";"https://www.mseq.vc/"
-118;"Mana Up";"USA";1;"Symbrosia";"Venture capital";"Local";"https://manauphawaii.com/"
-119;"Namibia Infrastructure Development and Investment Fund";"Namibia";1;"Kelp Blue";"Govt fund";"Local";"https://www.namfisa.com.na/spv/19-namibia-infrastructure-development-and-investment-fund-pty-ltd/"
-120;"Nelson Investments";"Canada";1;"Bioform";"Early-stage VC";"";"https://nelsoninvestmentsinc.com/"
-121;"New Enterprise Associates (NEA)";"USA";1;"New Wave Foods";"Venture capital";"";""
-122;"New Zealand Provisional Growth Fund";"New Zealand";1;"CH4Global";"Govt fund";"Local";"https://www.growregions.govt.nz/"
-123;"Norfolk Green Ventures";"USA";1;"Oceanium";"Venture capital";"Seaweed";""
-124;"Orkla";"Norway";1;"Arctic Seaweed";"Corporate";"Food / agriculture";"https://www.orkla.com/"
-125;"Outset Ventures";"New Zealand";1;"Newfish";"Early-stage VC";"";"https://outset.ventures/"
-126;"Pacific 6 Enterprises";"USA";1;"Symbrosia";"Impact investor";"Aquaculture";"https://pacificsix.com/"
-127;"Packard Foundation";"USA";1;"Greener Grazing";"Nonprofit";"Ocean";"https://www.packard.org/"
-128;"Pale Blue Dot";"Sweden";1;"BettaF!sh";"Venture capital";"Climate";"https://www.paleblue.vc/"
-129;"Pathbreaker Ventures";"USA";1;"Running Tide";"Venture capital";"(Deep) Tech";"https://www.pathbreakervc.com/"
-130;"Pegasus Sustainable Finance";"USA";1;"Akua";"Impact investor";"";"https://www.pcalp.com/"
-131;"Plug and Play";"USA";1;"Fermbiotics";"Incubator / accelerator";"";"https://www.plugandplaytechcenter.com/"
-132;"Ponderosa Ventures";"USA";1;"Umaro";"Early-stage VC
-Impact investor";"";"https://www.ponderosavc.com/"
-133;"Presidio Ventures";"USA";1;"Symbrosia";"Venture capital";"";"https://presidio-ventures.com/"
-134;"ProtoAtlantic";"Ireland";1;"Futuralga";"Incubator / accelerator";"Ocean";"http://www.protoatlantic.eu/"
-135;"Purpose Ventures";"Germany";1;"Vyld";"Impact investor";"";"https://purpose-economy.org/en/ventures/"
-136;"Ramen Ventures";"Canada";1;"Bioform";"Angel syndicate";"People & Planet";"https://www.ramen.vc/"
-137;"RDI Partners";"Portugal";1;"Ínclita Seaweed Solutions";"Early-stage VC";"";"https://rdipartners.eu/"
-138;"Republic";"USA";1;"Akua";"Crowdfunding";"";"https://republic.co/"
-139;"Sealaska";"USA";1;"Barnacle Foods";"Holding";"Local";""
-140;"SheEO";"Canada";1;"Loliware";"Nonprofit";"Women";"https://sheeo.world/"
-141;"Shopify";"USA";1;"Running Tide";"Corporate";"Climate";"https://www.shopify.com/about/environment/sustainability-fund"
-142;"Silverstrand Capital";"Singapore";1;"Sea6";"Family office";"Food / agriculture";"https://www.silverstrand.capital/"
-143;"South Australian Research & Development Institute";"Australia";1;"CH4Global";"Govt fund";"Local";"https://pir.sa.gov.au/research"
-144;"Sparklabs Cultiv8";"Australia";1;"FutureFeed";"Incubator / accelerator";"Food / agriculture";"https://www.sparklabscultiv8.com/"
-145;"Starlight Ventures";"USA";1;"Algiknit";"Venture capital";"";"https://starlight.vc/"
-146;"StartHub Wageningen";"Netherlands";1;"ReShore";"Incubator / accelerator";"";"https://www.starthubwageningen.nl/"
-147;"Startmate";"Australia";1;"Uluu";"Incubator / accelerator";"Local";"https://startmate.com/"
-148;"Stichting DOEN";"Netherlands";1;"Notpla";"Impact investor";"";"https://www.doen.nl/en"
-149;"Supernova Invest";"France";1;"Algaia";"Venture capital";"Local";"https://supernovainvest.com/"
-150;"Sustainable Development Technology Canada";"Canada";1;"Bioform";"Early-stage VC";"Cleantech";"https://www.sdtc.ca/en/"
-151;"Sustainable Food Ventures";"USA";1;"Umaro";"Early-stage VC";"Food / agriculture";"https://www.sustainablefoodventures.com/"
-152;"Symphony Environmental";"UK";1;"Eranova";"Corporate";"Plastics";"https://www.symphonyenvironmental.com/"
-153;"Tangaroa Ventures";"New Zealand";1;"Newfish";"";"";""
-154;"Tao Capital Partners";"USA";1;"Blue Ocean Barns";"Venture capital";"";"https://www.taocap.com/"
-155;"Tata Capital";"India";1;"Sea6";"Venture capital";"Local";"https://www.tatacapital.com/private-equity/if_overview.html"
-156;"Technology Development Fund";"Iceland";1;"Taramar";"Govt fund";"";"https://en.rannis.is/funding/research/technology-development-fund"
-157;"The Case for Her";"Sweden";1;"Vyld";"Impact investor";"Women";"https://thecaseforher.com/"
-158;"The Eights";"Australia";1;"Uluu";"Family office";"";"https://the8s.com.au/"
-159;"The Greenhouse";"UK";1;"FlexSea";"Incubator / accelerator";"Climate";"https://www.imperial.ac.uk/grantham/innovation/what-we-do/the-greenhouse/"
-160;"The Scottish Investment Bank";"UK";1;"Shore Seaweed";"Govt fund";"Local";"https://www.thebank.scot/"
-161;"The Seaweed Company";"Netherlands";1;"Zeewaar";"Seaweed industry";"Seaweed";""
-162;"Third Derivative";"USA";1;"Seaforestation";"Incubator / accelerator";"Climate";"https://www.third-derivative.org/"
-163;"Third Nature Ventures";"USA";1;"Algiknit";"Early-stage VC";"";"https://thirdnatureinvestments.com/"
-164;"Torch Capital";"USA";1;"Notpla";"Venture capital";"";"https://torchcapital.vc/"
-165;"Total Développement Régional";"France";1;"Eranova";"Corporate";"Local";"https://www.developpement-regional.total.fr/"
-166;"Tyson Foods";"USA";1;"New Wave Foods";"Corporate";"Food / agriculture";""
-167;"Vala Capital";"UK";1;"FlexSea";"Early-stage VC";"";"https://www.valacap.com/"
-168;"Valinor";"Norway";1;"Sirputis";"Venture capital";"Ocean";"https://valinor.no/"
-169;"Venrock";"USA";1;"Running Tide";"Venture capital";"";"https://www.venrock.com/"
-170;"Vibrant Ventures";"USA";1;"Akua";"Early-stage VC
-Impact investor";"Food / agriculture";"https://www.vibrant.vc/"
-171;"Vidia Ventures";"USA";1;"Carbonwave (formerly C-Combinator)";"Impact investor";"Climate";"https://www.vidiaventures.com/"
-172;"Waveform Investments";"India";1;"Pyratex (Pyrates)";"Early-stage VC
-Angel syndicate";"Local";"https://waveform.vc/"
-173;"Woolworths";"Australia";1;"FutureFeed";"Corporate";"";"https://www.woolworthsgroup.com.au/"
-174;"Yes VC";"USA";1;"Running Tide";"Early-stage VC";"";"https://yes.vc/"
-175;"Zandbergen World’s Finest Meat";"USA";1;"New Wave Foods";"Corporate";"Food / agriculture";""
-176;"ZEBOX";"France";1;"SMO Solar Process";"Incubator / accelerator";"";"https://www.ze-box.io/"
+Redrose Developments Ltd","Angel investor","",""
+"21",16,"Ocean Startup Challenge","Canada","3","Turquoise Revolution
+SeaChange Biochemistry","Incubator / accelerator","Ocean","https://oceanstartupproject.ca/challenge/"
+"20",17,"Activate","USA","2","Umaro
+Trophic / TROFX","Incubator / accelerator","Climate","https://www.activate.org/"
+"19",18,"Aksello","Norway","2","Thalasso Ocean
+Norwegian Seaweed Production","Incubator / accelerator","Local","https://aksello.no/"
+"18",19,"Alaska Ocean Cluster","USA","2","Foraged & Found
+Noble Ocean Farms","Incubator / accelerator","Ocean","https://www.alaskaoceancluster.com/"
+"17",20,"ASICS","Japan","2","Smartfiber
+Pyratex (Pyrates)","Corporate","Fashion","https://www.asics.com/"
+"16",21,"Astanor Ventures","Belgium","2","Notpla
+BettaF!sh","Impact investor","Food / agriculture","https://astanor.com/"
+"15",22,"Blue Horizon","Switzerland","2","New Wave Foods
+Dutch weed burger","Venture capital","Food / agriculture","https://www.bluehorizon.com/"
+"14",23,"Conservation International Ventures","USA","2","Sway
+Coast 4C","Impact investor","Conservation","https://www.conservation.org/projects/conservation-international-ventures-llc"
+"13",24,"Gratitude Railroad","USA","2","Ocean's Halo (New Frontier Foods)
+Loliware","Incubator / accelerator
+Impact investor","","https://gratituderailroad.com/"
+"12",25,"Maritime Blue","USA","2","Algeon Materials
+Blue Dot Sea Farms","Incubator / accelerator","Ocean","https://maritimeblue.org/"
+"11",26,"Rockstart Agrifood","Netherlands","2","Biotic
+Alganex","Early-stage VC","Food / agriculture","https://www.rockstart.com/"
+"10",27,"SAPEC","Portugal","2","ALGAplus Lda
+Algaia","Holding","","https://www.sapec.pt/"
+"9",28,"Seaworthy Collective","USA","2","Thalasso Ocean
+Kee Farms","Incubator / accelerator","Ocean","https://www.seaworthycollective.com/"
+"8",29,"Sky Ocean Ventures","UK","2","Notpla
+Oceanium","Nonprofit","Plastics","https://www.skyoceanrescue.com/skyoceanventures"
+"7",30,"SOSV / IndieBio","USA","2","Algiknit
+Sea & Believe (formerly Plantruption)","Venture capital
+Incubator / accelerator","","https://sosv.com/"
+"6",31,"startBlue","USA","2","Algeon Materials
+Daybreak Seaweed (formerly Salt Point)","Incubator / accelerator","Ocean","https://startblue.ucsd.edu/"
+"5",32,"Valor Siren Ventures","USA","2","Blue Ocean Barns
+Sway","Venture capital","Food / agriculture","https://www.valorep.com/valor-siren-ventures-vsv"
+"4",33,"We come from the sea","USA","2","Carbonwave (formerly C-Combinator)
+Tango Seaweed AS","Nonprofit","Ocean","https://wecomefromthesea.org/"
+"3",34,"WWF","USA","2","Ocean Rainforest
+Oceanium","Nonprofit","Conservation","https://www.worldwildlife.org/"
+"2",35,"Y Combinator","USA","2","Phykos
+Alga Biosciences","Incubator / accelerator","","https://www.ycombinator.com/"
+"1",36,"Accelerace","Denmark","1","Nordisk Tang - Nordic Seaweed Aps","Incubator / accelerator","","https://www.accelerace.io/"
+"110",37,"Agfunder","USA","1","Umaro","Venture capital","Food / agriculture","https://agfunder.com/"
+"210",38,"Agribusiness Advisors","Canada","1","Bioform","Early-stage VC","Food / agriculture","http://agribusinessadvisors.com/"
+"37",39,"Alante Capital","USA","1","Sway","Venture capital","Fashion
+Plastics","https://www.alantecapital.com/"
+"41",40,"Alberts Impact Capital","Australia","1","Uluu","Impact investor
+Family office","","https://www.alberts.co/"
+"51",41,"Alexandria Venture Investments","USA","1","Umaro","Venture capital","Food / agriculture","https://www.are.com/venture-investments.html"
+"61",42,"Almi Invest","Sweden","1","Nordic Seafarm (prev. Kosteralg)","Venture capital","","https://www.almi.se/"
+"71",43,"Alumni Ventures Group","USA","1","Akua","Venture capital","","https://www.avgfunds.com/"
+"81",44,"AquaSpark","Netherlands","1","Sea6","Venture capital","Aquaculture","https://www.aqua-spark.nl/"
+"91",45,"Australis Aquaculture","USA","1","Greener Grazing","Corporate","Aquaculture","https://www.thebetterfish.com/"
+"101",46,"BAM Ventures","USA","1","Sway","Venture capital","","https://www.bam.vc/"
+"111",47,"Baruch Future Ventures","USA","1","Carbonwave (formerly C-Combinator)","Venture capital","","https://www.baruch.vc/"
+"121",48,"BASF Venture Capital","Germany","1","Sea6","Venture capital","",""
+"131",49,"Big Idea Ventures","USA","1","New Wave Foods","Venture capital","Food / agriculture",""
+"141",50,"Biolchim","Italy","1","West Coast Marine Bio Processing Corp.","Corporate","Food / agriculture","https://www.biolchim.com/en/"
+"151",51,"Blue Natural Capital (IUCN)","Luxembourg","1","SeatechEnergy","Nonprofit","Ocean","https://bluenaturalcapital.org/"
+"161",52,"Blue Wire Capital","UK","1","Ocean Harvest Technology","Venture capital","","https://www.bluewirecapital.com/"
+"171",53,"Borregaard","Norway","1","Alginor","Corporate","",""
+"181",54,"Bpifrance","France","1","Olgram","Govt fund","Local","https://www.bpifrance.com/"
+"191",55,"Bristol Private Equity Club (BPEC)","UK","1","Kelpi","Angel syndicate","","http://www.bristolprivateequityclub.com/"
+"201",56,"C3 Capital","USA","1","Sway","Venture capital","",""
+"211",57,"Cava Capital","USA","1","Ocean's Halo (New Frontier Foods)","Early-stage VC","","https://cavacapital.com/"
+"221",58,"Cayuse Partners","USA","1","Carbonwave (formerly C-Combinator)","Impact investor","Climate","http://www.cayusepartners.com/"
+"231",59,"Centre Street Partners","USA","1","Sway","Venture capital","",""
+"241",60,"City Light","USA","1","Carbonwave (formerly C-Combinator)","Early-stage VC
+Venture capital","","https://citylight.vc/"
+"251",61,"CityRock Venture Partners","USA","1","Loliware","Venture capital","","https://www.cityrock.vc/"
+"261",62,"Clear Current Capital","USA","1","Umaro","Venture capital","Food / agriculture","https://www.clearcurrentcapital.com/"
+"271",63,"Climate Fund Managers","Netherlands","1","Kelp Blue","Impact investor","Climate","https://climatefundmanagers.com/"
+"281",64,"Closed Loop Partners","USA","1","Loliware","Venture capital","Circular economy","https://www.closedlooppartners.com/"
+"291",65,"Collaborative Fund","USA","1","Algiknit","Venture capital","","https://www.collaborativefund.com/"
+"301",66,"Colruyt","Belgium","1","The Seaweed Company","Corporate","Food / agriculture",""
+"311",67,"Connect BAN Bergen","Norway","1","Tekslo Seafood","Angel syndicate","Local","https://connectvest.no/investor-3/"
+"321",68,"CSIRO","Australia","1","FutureFeed","Govt fund","Local","https://www.csiro.au/"
+"331",69,"Danone Manifesto Ventures","France","1","Symbrosia","Venture capital","Food / agriculture","https://www.danoneventures.com/"
+"341",70,"DCVC / DCVC Bio","USA","1","CH4Global","Venture capital","(Deep) Tech","https://www.dcvc.com/"
+"351",71,"De Beers","UK","1","Kelp Blue","","",""
+"361",72,"De Smaakspecialist","Netherlands","1","Seamore","Corporate","",""
+"112",73,"Demeter Partners","France","1","Algaia","Venture capital
+Impact investor","","https://demeter-im.com/en/home/"
+"212",74,"Desert Bloom Food Ventures","USA","1","Atlantic Sea Farms (Ocean Approved)","Venture capital","Food / agriculture","https://www.desertbloomfoods.com/"
+"38",75,"EIC Accelerator","EU","1","Alginor","Govt fund","Local","https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+"42",76,"Elemental Excelerator","USA","1","Blue Ocean Barns","Incubator / accelerator
+Impact investor","Climate","https://elementalexcelerator.com/"
+"52",77,"ENEOS Group","Japan","1","Urchinomics","Holding","Energy","https://www.hd.eneos.co.jp/english/"
+"62",78,"Eos Capital","Namibia","1","Kelp Blue","Private equity","Local","https://www.eoscapital.com.na/"
+"72",79,"European Innovation Council Fund (EIC Fund)","EU","1","Alginor","Govt fund","","https://eic.ec.europa.eu/index_en"
+"82",80,"Evolution VC","USA","1","New Wave Foods","Venture capital","",""
+"92",81,"Fashion For Good","Netherlands","1","Algiknit","Venture capital","Fashion","https://fashionforgood.com/investments/"
+"102",82,"Fifth Down Capital","USA","1","Akua","Venture capital","","https://www.fifthdowncap.com/"
+"113",83,"FIT Food Tech","Switzerland","1","B'zeos","Incubator / accelerator","Food / agriculture",""
+"122",84,"Founder Collective","USA","1","Running Tide","Early-stage VC","","https://www.foundercollective.com/"
+"132",85,"Fresh Source Capital","USA","1","Atlantic Sea Farms (Ocean Approved)","Venture capital","Food / agriculture","https://www.freshsourcecapital.com/"
+"142",86,"Fundo Azul","Portugal","1","Ínclita Seaweed Solutions","Govt fund","Ocean","https://www.dgpm.mm.gov.pt/fundo-azul"
+"152",87,"Goeiegrutten","Netherlands","1","Zeewaar","Impact investor","Food / agriculture","https://goeie-grutten.nl/en/"
+"162",88,"GrainCorp","Australia","1","FutureFeed","Corporate","Food / agriculture","http://www.graincorp.com.au/"
+"172",89,"Green Angel Syndicate","UK","1","Oceanium","Angel syndicate","Climate","https://greenangelsyndicate.com/"
+"182",90,"Green Light","Australia","1","Sea Health Products","Incubator / accelerator","Algae","https://www.uts.edu.au/research-and-teaching/our-research/climate-change-cluster/deep-green-biotech-hub/innovation/green-light-accelerator-program/"
+"192",91,"GROW","Singapore","1","SEADLING","Incubator / accelerator","Food / agriculture","https://www.gogrow.co/"
+"202",92,"H&M CO:LAB","Sweden","1","Algiknit","Corporate
+Venture capital","",""
+"213",93,"Halogen Ventures","USA","1","Akua","Early-stage VC","","https://halogenvc.com/"
+"222",94,"Harvest Road","Australia","1","FutureFeed","Corporate","Food / agriculture","https://www.harvestroad.com/"
+"232",95,"Hatch","Norway","1","Symbrosia","Incubator / accelerator","Aquaculture","https://www.hatch.blue/"
+"242",96,"Hatteland Group","Norway","1","Alginor","Corporate","",""
+"252",97,"Highlands and Islands Enterprise","UK","1","Shore Seaweed","Govt fund","Local","https://www.hie.co.uk/"
+"262",98,"Horizons Ventures","Hong Kong","1","Algiknit","Venture capital","","https://www.horizonsventures.com/"
+"272",99,"Impact Science Ventures","USA","1","Umaro","Impact investor
+Venture capital","","https://www.impactscience.vc/"
+"282",100,"Incite","USA","1","Carbonwave (formerly C-Combinator)","Venture capital","","https://www.incite.org/"
+"292",101,"Indorama Ventures","Thailand","1","Eranova","Corporate","Plastics","https://www.indoramaventures.com/"
+"302",102,"Industry Capital","USA","1","Sea Greens Farms (failed)","Private equity","Real assets","https://www.industrycapital.com/"
+"312",103,"JCE Ventures","Sweden","1","Nordic Seafarm (prev. Kosteralg)","Venture capital","","https://jce.se/"
+"322",104,"Jeremy and Hannelore Grantham Environmental Trust","USA","1","Ocean Rainforest","Family office","Conservation","http://www.granthamtrust.org/"
+"332",105,"K1W1 - Stephen Tindall","New Zealand","1","CH4Global","Angel investor","Climate",""
+"342",106,"Kale United","Sweden","1","Nordic Seafarm (prev. Kosteralg)","Holding","Food / agriculture","https://www.kaleunited.com/"
+"352",107,"Karmagawa","USA","1","Akua","Nonprofit","","https://karmagawa.org/"
+"362",108,"Kernel Capital","Ireland","1","BioAtlantis Limited","Venture capital","Local","https://www.kernel-capital.com/"
+"114",109,"Kiilto Ventures","Finland","1","Origin by Ocean","Family office
+Corporate","Local","https://kiiltoventures.fi/"
+"214",110,"Kjell & Märta Beijers Foundation","Sweden","1","Volta Greentech","Family office","Local","http://www.beijerstiftelsen.se/"
+"39",111,"KPMG Finland","Finland","1","Origin by Ocean","Venture capital","Local","https://insight.kpmg.fi/view2020"
+"43",112,"Livekindly Collective","USA","1","Dutch weed burger","Holding","Food / agriculture","https://thelivekindlyco.com/"
+"53",113,"Lowercarbon Capital","USA","1","Running Tide","Venture capital","Climate","https://lowercarboncapital.com/"
+"63",114,"Lupa Systems","USA","1","Notpla","Venture capital","","http://www.lupasystems.com/"
+"73",115,"Maabarot","Israel","1","Algaia","Corporate","Food / agriculture","http://www.maabarot.com/"
+"83",116,"Macquarie Infrastructure and Real Assets (MIRA)","Australia","1","Sea Forest Australia","Private equity","Real assets","https://www.mirafunds.com/uk/en.html"
+"93",117,"Main Sequence","Australia","1","Uluu","Venture capital
+Govt fund","Local","https://www.mseq.vc/"
+"103",118,"Mana Up","USA","1","Symbrosia","Venture capital","Local","https://manauphawaii.com/"
+"115",119,"Namibia Infrastructure Development and Investment Fund","Namibia","1","Kelp Blue","Govt fund","Local","https://www.namfisa.com.na/spv/19-namibia-infrastructure-development-and-investment-fund-pty-ltd/"
+"123",120,"Nelson Investments","Canada","1","Bioform","Early-stage VC","","https://nelsoninvestmentsinc.com/"
+"133",121,"New Enterprise Associates (NEA)","USA","1","New Wave Foods","Venture capital","",""
+"143",122,"New Zealand Provisional Growth Fund","New Zealand","1","CH4Global","Govt fund","Local","https://www.growregions.govt.nz/"
+"153",123,"Norfolk Green Ventures","USA","1","Oceanium","Venture capital","Seaweed",""
+"163",124,"Orkla","Norway","1","Arctic Seaweed","Corporate","Food / agriculture","https://www.orkla.com/"
+"173",125,"Outset Ventures","New Zealand","1","Newfish","Early-stage VC","","https://outset.ventures/"
+"183",126,"Pacific 6 Enterprises","USA","1","Symbrosia","Impact investor","Aquaculture","https://pacificsix.com/"
+"193",127,"Packard Foundation","USA","1","Greener Grazing","Nonprofit","Ocean","https://www.packard.org/"
+"203",128,"Pale Blue Dot","Sweden","1","BettaF!sh","Venture capital","Climate","https://www.paleblue.vc/"
+"215",129,"Pathbreaker Ventures","USA","1","Running Tide","Venture capital","(Deep) Tech","https://www.pathbreakervc.com/"
+"223",130,"Pegasus Sustainable Finance","USA","1","Akua","Impact investor","","https://www.pcalp.com/"
+"233",131,"Plug and Play","USA","1","Fermbiotics","Incubator / accelerator","","https://www.plugandplaytechcenter.com/"
+"243",132,"Ponderosa Ventures","USA","1","Umaro","Early-stage VC
+Impact investor","","https://www.ponderosavc.com/"
+"253",133,"Presidio Ventures","USA","1","Symbrosia","Venture capital","","https://presidio-ventures.com/"
+"263",134,"ProtoAtlantic","Ireland","1","Futuralga","Incubator / accelerator","Ocean","http://www.protoatlantic.eu/"
+"273",135,"Purpose Ventures","Germany","1","Vyld","Impact investor","","https://purpose-economy.org/en/ventures/"
+"283",136,"Ramen Ventures","Canada","1","Bioform","Angel syndicate","People & Planet","https://www.ramen.vc/"
+"293",137,"RDI Partners","Portugal","1","Ínclita Seaweed Solutions","Early-stage VC","","https://rdipartners.eu/"
+"303",138,"Republic","USA","1","Akua","Crowdfunding","","https://republic.co/"
+"313",139,"Sealaska","USA","1","Barnacle Foods","Holding","Local",""
+"323",140,"SheEO","Canada","1","Loliware","Nonprofit","Women","https://sheeo.world/"
+"333",141,"Shopify","USA","1","Running Tide","Corporate","Climate","https://www.shopify.com/about/environment/sustainability-fund"
+"343",142,"Silverstrand Capital","Singapore","1","Sea6","Family office","Food / agriculture","https://www.silverstrand.capital/"
+"353",143,"South Australian Research & Development Institute","Australia","1","CH4Global","Govt fund","Local","https://pir.sa.gov.au/research"
+"363",144,"Sparklabs Cultiv8","Australia","1","FutureFeed","Incubator / accelerator","Food / agriculture","https://www.sparklabscultiv8.com/"
+"116",145,"Starlight Ventures","USA","1","Algiknit","Venture capital","","https://starlight.vc/"
+"216",146,"StartHub Wageningen","Netherlands","1","ReShore","Incubator / accelerator","","https://www.starthubwageningen.nl/"
+"310",147,"Startmate","Australia","1","Uluu","Incubator / accelerator","Local","https://startmate.com/"
+"44",148,"Stichting DOEN","Netherlands","1","Notpla","Impact investor","","https://www.doen.nl/en"
+"54",149,"Supernova Invest","France","1","Algaia","Venture capital","Local","https://supernovainvest.com/"
+"64",150,"Sustainable Development Technology Canada","Canada","1","Bioform","Early-stage VC","Cleantech","https://www.sdtc.ca/en/"
+"74",151,"Sustainable Food Ventures","USA","1","Umaro","Early-stage VC","Food / agriculture","https://www.sustainablefoodventures.com/"
+"84",152,"Symphony Environmental","UK","1","Eranova","Corporate","Plastics","https://www.symphonyenvironmental.com/"
+"94",153,"Tangaroa Ventures","New Zealand","1","Newfish","","",""
+"104",154,"Tao Capital Partners","USA","1","Blue Ocean Barns","Venture capital","","https://www.taocap.com/"
+"117",155,"Tata Capital","India","1","Sea6","Venture capital","Local","https://www.tatacapital.com/private-equity/if_overview.html"
+"124",156,"Technology Development Fund","Iceland","1","Taramar","Govt fund","","https://en.rannis.is/funding/research/technology-development-fund"
+"134",157,"The Case for Her","Sweden","1","Vyld","Impact investor","Women","https://thecaseforher.com/"
+"144",158,"The Eights","Australia","1","Uluu","Family office","","https://the8s.com.au/"
+"154",159,"The Greenhouse","UK","1","FlexSea","Incubator / accelerator","Climate","https://www.imperial.ac.uk/grantham/innovation/what-we-do/the-greenhouse/"
+"164",160,"The Scottish Investment Bank","UK","1","Shore Seaweed","Govt fund","Local","https://www.thebank.scot/"
+"174",161,"The Seaweed Company","Netherlands","1","Zeewaar","Seaweed industry","Seaweed",""
+"184",162,"Third Derivative","USA","1","Seaforestation","Incubator / accelerator","Climate","https://www.third-derivative.org/"
+"194",163,"Third Nature Ventures","USA","1","Algiknit","Early-stage VC","","https://thirdnatureinvestments.com/"
+"204",164,"Torch Capital","USA","1","Notpla","Venture capital","","https://torchcapital.vc/"
+"217",165,"Total Développement Régional","France","1","Eranova","Corporate","Local","https://www.developpement-regional.total.fr/"
+"224",166,"Tyson Foods","USA","1","New Wave Foods","Corporate","Food / agriculture",""
+"234",167,"Vala Capital","UK","1","FlexSea","Early-stage VC","","https://www.valacap.com/"
+"244",168,"Valinor","Norway","1","Sirputis","Venture capital","Ocean","https://valinor.no/"
+"254",169,"Venrock","USA","1","Running Tide","Venture capital","","https://www.venrock.com/"
+"264",170,"Vibrant Ventures","USA","1","Akua","Early-stage VC
+Impact investor","Food / agriculture","https://www.vibrant.vc/"
+"274",171,"Vidia Ventures","USA","1","Carbonwave (formerly C-Combinator)","Impact investor","Climate","https://www.vidiaventures.com/"
+"284",172,"Waveform Investments","India","1","Pyratex (Pyrates)","Early-stage VC
+Angel syndicate","Local","https://waveform.vc/"
+"294",173,"Woolworths","Australia","1","FutureFeed","Corporate","","https://www.woolworthsgroup.com.au/"
+"304",174,"Yes VC","USA","1","Running Tide","Early-stage VC","","https://yes.vc/"
+"314",175,"Zandbergen World’s Finest Meat","USA","1","New Wave Foods","Corporate","Food / agriculture",""
+"324",176,"ZEBOX","France","1","SMO Solar Process","Incubator / accelerator","","https://www.ze-box.io/"
+"334",177,"Carbery Group","","0","","","",""
+"344",178,"Enterprise Ireland","","0","","","",""
+"354",179,"The Yield Lab","","0","","","",""
